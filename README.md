@@ -1,2 +1,2 @@
 # past-grants
-Proposed redesign of search and filter tool for the Fund
+Proposed redesign of search and filter tool on The National Lottery Community Fund website

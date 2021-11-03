@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/past-grants/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/past-grants/static/js/main.05d21353.chunk.js",
-    "main.js.map": "/past-grants/static/js/main.05d21353.chunk.js.map",
-    "runtime-main.js": "/past-grants/static/js/runtime-main.3e34ec06.js",
-    "runtime-main.js.map": "/past-grants/static/js/runtime-main.3e34ec06.js.map",
-    "static/js/2.65eacb68.chunk.js": "/past-grants/static/js/2.65eacb68.chunk.js",
-    "static/js/2.65eacb68.chunk.js.map": "/past-grants/static/js/2.65eacb68.chunk.js.map",
-    "static/js/3.99378262.chunk.js": "/past-grants/static/js/3.99378262.chunk.js",
-    "static/js/3.99378262.chunk.js.map": "/past-grants/static/js/3.99378262.chunk.js.map",
+    "main.css": "/past-grants/static/css/main.32c8e1bb.chunk.css",
+    "main.js": "/past-grants/static/js/main.38edc282.chunk.js",
+    "main.js.map": "/past-grants/static/js/main.38edc282.chunk.js.map",
+    "runtime-main.js": "/past-grants/static/js/runtime-main.306efaad.js",
+    "runtime-main.js.map": "/past-grants/static/js/runtime-main.306efaad.js.map",
+    "static/css/2.c1256375.chunk.css": "/past-grants/static/css/2.c1256375.chunk.css",
+    "static/js/2.3bb510e2.chunk.js": "/past-grants/static/js/2.3bb510e2.chunk.js",
+    "static/js/2.3bb510e2.chunk.js.map": "/past-grants/static/js/2.3bb510e2.chunk.js.map",
+    "static/js/3.f40b06fa.chunk.js": "/past-grants/static/js/3.f40b06fa.chunk.js",
+    "static/js/3.f40b06fa.chunk.js.map": "/past-grants/static/js/3.f40b06fa.chunk.js.map",
     "index.html": "/past-grants/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/past-grants/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.65eacb68.chunk.js.LICENSE.txt": "/past-grants/static/js/2.65eacb68.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/past-grants/static/media/logo.6ce24c58.svg"
+    "static/css/2.c1256375.chunk.css.map": "/past-grants/static/css/2.c1256375.chunk.css.map",
+    "static/css/main.32c8e1bb.chunk.css.map": "/past-grants/static/css/main.32c8e1bb.chunk.css.map",
+    "static/js/2.3bb510e2.chunk.js.LICENSE.txt": "/past-grants/static/js/2.3bb510e2.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3e34ec06.js",
-    "static/js/2.65eacb68.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.05d21353.chunk.js"
+    "static/js/runtime-main.306efaad.js",
+    "static/css/2.c1256375.chunk.css",
+    "static/js/2.3bb510e2.chunk.js",
+    "static/css/main.32c8e1bb.chunk.css",
+    "static/js/main.38edc282.chunk.js"
   ]
 }

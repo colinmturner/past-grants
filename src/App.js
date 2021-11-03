@@ -9,6 +9,8 @@ import SearchFilterSet from './searchFilterSet';
 import SearchResults from './searchResults';
 import projects from './projects';
 
+//https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/ 
+
 class App extends React.Component {
   constructor(props) {
     super(props);

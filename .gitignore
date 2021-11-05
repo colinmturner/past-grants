@@ -11,6 +11,8 @@
 # production
 /build
 
+https://www.freecodecamp.org/news/deploy-a-react-app-to-github-pages/ 
+
 # misc
 .DS_Store
 .env.local

@@ -2,6 +2,7 @@
   text-align: left;
   max-width: 1200px;
   margin: auto;
+  font-family: 'Inter', sans-serif;
 }
 
 .App-header {
@@ -13,6 +14,9 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+}
+h1, h2, h3 {
+  font-family: 'Roboto Slab', serif;
 }
 h4 {
   font-weight: 800;

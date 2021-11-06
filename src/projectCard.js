@@ -20,31 +20,29 @@ class ProjectCard extends React.Component {
             programme:      "National Lottery Awards for All Scotland"
          } */
         return (
-            <Container>
+            <Container className="projectCard">
                 <Row>
-                    <Col sm={8}>
+                    <Col sm={8} className="projectAttic">
                         <Row>
                             <Col sm={8}>
-                                <h2 id={proj['id']} /*{proj['grant_href']} */ >{proj['project_name']}</h2>
+                                <h5 id={proj['id']} /*{proj['grant_href']} */ >{proj['project_name']}</h5>
                             </Col>
-                            <Col sm={4}>{proj['amount']}</Col>
+                            <Col sm={4}><h5 className="gpbs">{ new Intl.NumberFormat('en-IN', { currency: 'GBP', style: 'currency', maximumFractionDigits: 0, minimumFractionDigits: 0 }).format(proj['amount']) }</h5></Col>
                         </Row>
                         <Row>
-                            <Col sm><strong>Active: </strong>{proj['active']} {Date(proj['date'])}</Col>
+                            <Col sm><strong className="pink">Active <span class="material-icons">turned_in</span> </strong>{proj['active']} {Date(proj['date'])}</Col>
                         </Row>
                         <Row>
                             <Col sm>
-                                <h3><strong>Programme: </strong>{proj['programme']}</h3>
+                                <h6><strong>Programme: <a href="#">{proj['programme']}</a></strong></h6>
                                 <p>{proj['summary']}</p>
                             </Col>
                         </Row>
                     </Col>
-                </Row>
-                <Row>
-                    <Col sm={4}>
-                        <h4>{proj['recipients']}</h4>
-                        <p><strong>Organisation type: </strong>{proj['orgType']}</p>
-                        <p><strong>Location: </strong>{proj['location']}</p>
+                    <Col sm={4} className="projectAnnex">
+                        <h6><strong>Recipient: <a href="#">{proj['recipients']}</a></strong></h6>
+                        <h6><strong>Organisation type: </strong>{proj['orgType']}</h6>
+                        <h6><strong>Location: </strong>{proj['location']}</h6>
                     </Col>
                 </Row>
             </Container>

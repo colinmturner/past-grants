@@ -36,7 +36,7 @@ class SearchBox extends React.Component {
                     </Button>
                 </InputGroup>
                 <p>(Example: Picnic, Garden, Youth)</p>
-                <p>{resProjs.length} results</p>
+                <h5 className="gpbs">{resProjs.length} results</h5>
            </div>
         )
     }

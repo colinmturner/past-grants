@@ -7,7 +7,7 @@ const projects = [    {
         // recipients:     "GB-COH-12106156
         recipients:     "Feeding Gainsborough CIC",
         date:           new Date('1 September, 2021'),
-        summary:        "The group will use the funding to expand the local community caf� and support services available to the community. The funding will support core running costs and the introduction of two part-time staff to develop the community space and the advice and guidance services.", // 0045380714
+        summary:        "The group will use the funding to expand the local community café and support services available to the community. The funding will support core running costs and the introduction of two part-time staff to develop the community space and the advice and guidance services.", // 0045380714
         location:       "Gainsborough South-West, Gainsborough, West Lindsey",
         active:         false,
         programme:      "RC Midlands Region"
@@ -20,7 +20,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-developing-unused-youth-and-community-centre",
         grant_href:     "/funding/grants/0045400525",
-        project_name:   "Developing Unused Youth &amp; Community Centre",
+        project_name:   "Developing Unused Youth & Community Centre",
         amount:         9506, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1165745
@@ -84,7 +84,7 @@ const projects = [    {
         recipients:     "Keyworth Parish Council",
         date:           new Date('26 August, 2021'),
         summary:        "The funding will be used by the group to expand and carry out improvements to the local skatepark. The project aims to improve the safety of the space for families to enjoy and increase physical activity.", // 0045403416
-        location:       "Keyworth &amp; Wolds, Rushcliffe, Rushcliffe",
+        location:       "Keyworth & Wolds, Rushcliffe, Rushcliffe",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -147,9 +147,9 @@ const projects = [    {
         amount:         96900, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-1090079
-        recipients:     "Kongolese Centre for Information &amp; Advice",
+        recipients:     "Kongolese Centre for Information & Advice",
         date:           new Date('26 August, 2021'),
-        summary:        "The group is using funding to continue the Westminster Welfare Rights Project which provides advice on welfare rights issues immigration advice work representation and assistance with appeals filling applications forms and enquiries on other topics such as housing. The project aims to improve client�s independence citizenship integration and to strengthen local communities.", // 0045359008
+        summary:        "The group is using funding to continue the Westminster Welfare Rights Project which provides advice on welfare rights issues immigration advice work representation and assistance with appeals filling applications forms and enquiries on other topics such as housing. The project aims to improve client's independence citizenship integration and to strengthen local communities.", // 0045359008
         location:       "Church Street, Westminster North, Westminster",
         active:         false,
         programme:      "RC London and South East Region"
@@ -163,7 +163,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1168381
         recipients:     "Friends of Cricklewood Library",
         date:           new Date('26 August, 2021'),
-        summary:        "The funding will be used to complete the caf� and reception area of their community library. The project aims to create a community hub providing access to learning employability skills opportunities and wellbeing events.", // 0045403292
+        summary:        "The funding will be used to complete the café and reception area of their community library. The project aims to create a community hub providing access to learning employability skills opportunities and wellbeing events.", // 0045403292
         location:       "Mapesbury, Brent Central, Brent",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -215,7 +215,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1166102
         recipients:     "Passion Youth Project",
         date:           new Date('26 August, 2021'),
-        summary:        "The group will deliver a young person led community caf� that supports the development of local people. The group will focus on supporting young people to develop skills and capabilities confidence and self-esteem that will support them in creating a positive view of their future.", // 0045370060
+        summary:        "The group will deliver a young person led community café that supports the development of local people. The group will focus on supporting young people to develop skills and capabilities confidence and self-esteem that will support them in creating a positive view of their future.", // 0045370060
         location:       "Shepshed West, Loughborough, Charnwood",
         active:         false,
         programme:      "RC Midlands Region"
@@ -374,7 +374,7 @@ const projects = [    {
         amount:         495877, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1128497
-        recipients:     "Worcester Citizens Advice Bureau &amp; WHABAC",
+        recipients:     "Worcester Citizens Advice Bureau & WHABAC",
         date:           new Date('26 August, 2021'),
         summary:        "The group will use its funding over 4 years to expand by offering its full range of advice services in local market towns. The group aims to combat poverty social exclusion and homelessness by providing advice assistance and support to all those in need.", // 0045358108
         location:       "Central, Hereford and South Herefordshire, Herefordshire, County of",
@@ -647,7 +647,7 @@ const projects = [    {
         recipients:     "The Dash Charity",
         date:           new Date('26 August, 2021'),
         summary:        "The funding will be used to develop peer support groups to survivors of domestic violence.  The project aims to  help survivors access support in a community setting help them develop new connections and rebuild independence and reduce isolation.", // 0045402552
-        location:       "Eton &amp; Castle, Windsor, Windsor and Maidenhead",
+        location:       "Eton & Castle, Windsor, Windsor and Maidenhead",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -659,7 +659,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-glossopdale-community-connections-support-befriend-connect",
         grant_href:     "/funding/grants/0045357496",
-        project_name:   "Glossopdale Community Connections � Support - Befriend - Connect",
+        project_name:   "Glossopdale Community Connections & Support - Befriend - Connect",
         amount:         139602, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-1067170
@@ -691,7 +691,7 @@ const projects = [    {
         amount:         9500, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1157255
-        recipients:     "Bensham &amp; Saltwell Alive",
+        recipients:     "Bensham & Saltwell Alive",
         date:           new Date('26 August, 2021'),
         summary:        "The project will use the funding to help young people to develop co-produce and deliver community activities for the benefit of young people their families and local residents. This will involve arts environmental issues informal education/training volunteering and community events. This aims to reduce isolation while helping young people to develop new skills resilience and aspirations.", // 0045401814
         location:       "Saltwell, Gateshead, Gateshead",
@@ -763,7 +763,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-connect-and-share-parenting-support-forum",
         grant_href:     "/funding/grants/0045398261",
-        project_name:   "Connect &amp; Share Parenting Support Forum",
+        project_name:   "Connect & Share Parenting Support Forum",
         amount:         9662, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1164333
@@ -782,7 +782,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-activities-and-support-for-disabled-children-in-south-kesteven",
         grant_href:     "/funding/grants/0045402795",
-        project_name:   "Activities &amp; Support for Disabled Children in South Kesteven",
+        project_name:   "Activities & Support for Disabled Children in South Kesteven",
         amount:         9998, // £ to
         orgType:        "Partnership",
         // recipients:     "360g-tnlcomfung-org-LittleMiraclesBourneBranch,
@@ -824,7 +824,7 @@ const projects = [    {
         amount:         9950, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11437116
-        recipients:     "Enfield Health &amp; Wellbeing Services Ltd",
+        recipients:     "Enfield Health & Wellbeing Services Ltd",
         date:           new Date('19 August, 2021'),
         summary:        "This project will support people struggling to feed their families due to financial difficulties by providing cooking on a budget sessions in the most deprived areas of Enfield. It will offer support to provide nutritious healthy meals on a limited budget and also look to address issues that led to the situation by signposting for support with benefits etc. It will offer information and meal kits in different languages according to their cultural needs and teach skills. The project will focus particularly on those with language barriers.", // 0045400698
         location:       "Enfield North, Enfield",
@@ -846,7 +846,7 @@ const projects = [    {
         recipients:     "Nether Denton Parish Council",
         date:           new Date('19 August, 2021'),
         summary:        "The project will use the funding to install an outdoor shelter at the local park to provide a safe place for people to meet and socialise.  This will help to improve outdoor facilities so that residents families and visitors can enjoy an outdoor space together with a view to reduce isolation and improve mental wellbeing.", // 0045401670
-        location:       "Brampton &amp; Fellside, Penrith and The Border, Carlisle",
+        location:       "Brampton & Fellside, Penrith and The Border, Carlisle",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -919,7 +919,7 @@ const projects = [    {
         amount:         8016, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1138035
-        recipients:     "The Parochial Church Council of the Ecclesiastical Parish of St Peter�s Halliwell Bolton",
+        recipients:     "The Parochial Church Council of the Ecclesiastical Parish of St Peter's Halliwell Bolton",
         date:           new Date('19 August, 2021'),
         summary:        "The funding will be used to install a fire detection and alarm system in a parish hall. The project aims to ensure the hall can be safely used by various groups from the wider community.", // 0045399726
         location:       "Smithills, Bolton West, Bolton",
@@ -957,7 +957,7 @@ const projects = [    {
         amount:         10000, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-13425556
-        recipients:     "Handmade with Love &amp; Making Memories C.I.C.",
+        recipients:     "Handmade with Love & Making Memories C.I.C.",
         date:           new Date('19 August, 2021'),
         summary:        "The funding will be used to support parents and families who have suffered baby loss and rainbow pregnancy.  The project aims to use handmade items and bags that are filled with vital support information created by other parents who have also suffered loss to bring families together.", // 0045400988
         location:       "Crumpsall, Blackley and Broughton, Manchester",
@@ -1124,7 +1124,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-anansi-and-the-sweet-forgotten:-reducing-isolation-for-afro-caribbean-elders",
         grant_href:     "/funding/grants/0045399323",
-        project_name:   "Anansi &amp; the Sweet Forgotten: reducing isolation for Afro-Caribbean Elders",
+        project_name:   "Anansi & the Sweet Forgotten: reducing isolation for Afro-Caribbean Elders",
         amount:         10000, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-12993041
@@ -1184,8 +1184,8 @@ const projects = [    {
         project_name:   "Dilemma Debate Decision",
         amount:         2825, // £ to
         orgType:        "Partnership",
-        // recipients:     "360g-tnlcomfung-org-PullingTogetherAsianWomen�sGroup,
-        recipients:     "Pulling Together Asian Women�s Group",
+        // recipients:     "360g-tnlcomfung-org-PullingTogetherAsianWomen'sGroup,
+        recipients:     "Pulling Together Asian Women's Group",
         date:           new Date('19 August, 2021'),
         summary:        "The funding will be used to bring young Asian women together to discuss issues pertaining to them during the pandemic including relationships arranged marriage and careers. The aim of the project is to reduce isolation as well as to promote wellbeing", // 0045399773
         location:       "Clifford, Stretford and Urmston, Trafford",
@@ -1238,7 +1238,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-language-support-and-integration",
         grant_href:     "/funding/grants/0045401452",
-        project_name:   "Language Support &amp; Integration",
+        project_name:   "Language Support & Integration",
         amount:         9980, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11599433
@@ -1263,7 +1263,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-St.Jude&#39;sSeniorCitizenClub,
         recipients:     "St. Jude&#39;s Senior Citizen Club",
         date:           new Date('19 August, 2021'),
-        summary:        "The funding will be used to re-establish an older person�s social club at St Judes�s Centre in Southwark.  The project aims to provide a safe space for older people to meet to reduce isolation and improve emotional wellbeing.", // 0045396308
+        summary:        "The funding will be used to re-establish an older person's social club at St Judes's Centre in Southwark.  The project aims to provide a safe space for older people to meet to reduce isolation and improve emotional wellbeing.", // 0045396308
         location:       "St George&#39;s, Bermondsey and Old Southwark, Southwark",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -1371,14 +1371,14 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-operating-efficiently-and-privately",
         grant_href:     "/funding/grants/0045402640",
-        project_name:   "Operating Efficiently &amp; Privately",
+        project_name:   "Operating Efficiently & Privately",
         amount:         9996, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1144625
         recipients:     "Chabad Lubavitch of Nottingham",
         date:           new Date('19 August, 2021'),
         summary:        "The group will use its funding to create a private office building within their grounds where members of the Jewish community will be provided with a safe private space to be able to talk confidentially about sensitive topics such as teen pregnancy illness and unemployment without the risk of being overheard. The group hopes that people will be able to receive the advice/support they require without distractions in a space free of judgement.", // 0045402640
-        location:       "Lenton &amp; Wollaton East, Nottingham South, Nottingham",
+        location:       "Lenton & Wollaton East, Nottingham South, Nottingham",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -1529,7 +1529,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1166646
         recipients:     "Breadwinners Foundation",
         date:           new Date('19 August, 2021'),
-        summary:        "The funding will enable the organisation to take their successful bread-making selling and mentoring project model to Brighton which is aimed at supporting young refugees and people seeking asylum. The project aims to bring people together and give people the opportunity to learn key skills and language where they may not have access to public funds. This project will focus  on improving the  the Open Market the most important community market in the city One Church Brighton an established source of community support and Brighthelm caf�: a hub for charities and community initiatives.", // 0045400471
+        summary:        "The funding will enable the organisation to take their successful bread-making selling and mentoring project model to Brighton which is aimed at supporting young refugees and people seeking asylum. The project aims to bring people together and give people the opportunity to learn key skills and language where they may not have access to public funds. This project will focus  on improving the  the Open Market the most important community market in the city One Church Brighton an established source of community support and Brighthelm café: a hub for charities and community initiatives.", // 0045400471
         location:       "Hanover and Elm Grove, Brighton, Pavilion, Brighton and Hove",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -1656,7 +1656,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-recover-and-thrive:-parenting-engagement-project",
         grant_href:     "/funding/grants/0045399881",
-        project_name:   "Recover &amp; Thrive: Parenting Engagement Project",
+        project_name:   "Recover & Thrive: Parenting Engagement Project",
         amount:         10000, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11441116
@@ -1899,7 +1899,7 @@ const projects = [    {
     {
         id:             "qa-promo-card-link-saabat-community-garden-middlesbrough-and-redcar",
         grant_href:     "/funding/grants/0045386759",
-        project_name:   "Saabat Community Garden Middlesbrough &amp; Redcar",
+        project_name:   "Saabat Community Garden Middlesbrough & Redcar",
         amount:         70010, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11372076
@@ -1946,14 +1946,14 @@ const projects = [    {
     {
         id:             "qa-promo-card-link-leo&#39;s-peer-support-and-service-development",
         grant_href:     "/funding/grants/0045367607",
-        project_name:   "Leo&#39;s Peer Support &amp; Service Development",
+        project_name:   "Leo&#39;s Peer Support & Service Development",
         amount:         92498, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1179901
         recipients:     "Leo&#39;s",
         date:           new Date('17 August, 2021'),
         summary:        "The project will use the funding to provide neonatal peer support and community intervention to neonatal families in Teesside  Darlington Durham and Sunderland as well as the wider area where needed. This aims to reduce isolation and improve mental wellbeing.", // 0045367607
-        location:       "Brambles &amp; Thorntree, Middlesbrough, Middlesbrough",
+        location:       "Brambles & Thorntree, Middlesbrough, Middlesbrough",
         active:         false,
         programme:      "RC North East and Cumbria Region"
      },
@@ -2044,8 +2044,8 @@ const projects = [    {
         project_name:   "Oly Women Talking",
         amount:         10000, // £ to
         orgType:        "Partnership",
-        // recipients:     "360g-tnlcomfung-org-Gr�cehelpAfrica,
-        recipients:     "Gr�ce help Africa",
+        // recipients:     "360g-tnlcomfung-org-Gr'cehelpAfrica,
+        recipients:     "Gr'ce help Africa",
         date:           new Date('12 August, 2021'),
         summary:        "The funding will be used to run workshops for women from black and ethnic minority communities who are experiencing mental health issues. The project aims to address issues like anxiety and depression which have increased during the Covid-19 pandemic.", // 0045397357
         location:       "Woolwich Common, Greenwich and Woolwich, Greenwich",
@@ -2307,7 +2307,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-cpr-and-defibrillator-training-equipment",
         grant_href:     "/funding/grants/0045400039",
-        project_name:   "CPR &amp; Defibrillator training equipment",
+        project_name:   "CPR & Defibrillator training equipment",
         amount:         1500, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1183033
@@ -2332,7 +2332,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1181035
         recipients:     "Special Needs Circle - East Midlands",
         date:           new Date('12 August, 2021'),
-        summary:        "The funding will be used by the group to purchase the equipment to run activity and sensory sessions for children living with disabilities. The project aims to build community relationships reduce isolation and improve people�s wellbeing.", // 0045401492
+        summary:        "The funding will be used by the group to purchase the equipment to run activity and sensory sessions for children living with disabilities. The project aims to build community relationships reduce isolation and improve people's wellbeing.", // 0045401492
         location:       "Church Gresley, South Derbyshire, South Derbyshire",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -2370,7 +2370,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1173891
         recipients:     "Blackrod Sports And Community Centre",
         date:           new Date('12 August, 2021'),
-        summary:        "The funding will be used to create footpaths for a community centre�s new system of entering and exiting the building. The project aims to make the centre accessible to all whilst maintaining measures put in place as a result of the covid pandemic.", // 0045398034
+        summary:        "The funding will be used to create footpaths for a community centre's new system of entering and exiting the building. The project aims to make the centre accessible to all whilst maintaining measures put in place as a result of the covid pandemic.", // 0045398034
         location:       "Horwich and Blackrod, Bolton West, Bolton",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -2440,7 +2440,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-promotion-and-communication-of-community-services",
         grant_href:     "/funding/grants/0045398050",
-        project_name:   "Promotion &amp; Communication of Community Services",
+        project_name:   "Promotion & Communication of Community Services",
         amount:         10000, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1120377
@@ -2466,7 +2466,7 @@ const projects = [    {
         recipients:     "Eakring Playing Field Committee",
         date:           new Date('12 August, 2021'),
         summary:        "The project will transform an unused playing field to an outdoor accessible play park in the local remote village by installing new play equipment. The group aims to create an outdoor play space where local families and residents can meet to help reduce social isolation.", // 0045401456
-        location:       "Rainworth North &amp; Rufford, Sherwood, Newark and Sherwood",
+        location:       "Rainworth North & Rufford, Sherwood, Newark and Sherwood",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -2706,7 +2706,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-refresh-and-reflect-health-project",
         grant_href:     "/funding/grants/0045398135",
-        project_name:   "Refresh &amp; Reflect Health Project",
+        project_name:   "Refresh & Reflect Health Project",
         amount:         10000, // £ to
         orgType:        "Partnership",
         // recipients:     "360g-tnlcomfung-org-FalingeCommunityGroup,
@@ -2827,7 +2827,7 @@ const projects = [    {
         amount:         6736, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-12914727
-        recipients:     "JB�S Community Outreach CIC",
+        recipients:     "JB's Community Outreach CIC",
         date:           new Date('12 August, 2021'),
         summary:        "The funding will be used by the group to offer physical activity sessions to older people and mothers particularly single parents in the local community. The project aims to improve both physical and mental health by providing people the opportunity to access physical activities to reduce social isolation following the pandemic.", // 0045400921
         location:       "Horncastle, Louth and Horncastle, East Lindsey",
@@ -2846,7 +2846,7 @@ const projects = [    {
         amount:         9998, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-9736753
-        recipients:     "International Development Foundation for Community Integration &amp; Support Services CIC",
+        recipients:     "International Development Foundation for Community Integration & Support Services CIC",
         date:           new Date('12 August, 2021'),
         summary:        "The funding will be used to by the group to support vulnerable families from the BAME community by providing them with advice and activities to help them reconnect following the pandemic. The project aims to reduce isolation and rebuild their confidence to ensure they feel better connected within their community.", // 0045400959
         location:       "Berridge, Nottingham East, Nottingham",
@@ -2971,7 +2971,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1093818
         recipients:     "Disablement Association Hillingdon",
         date:           new Date('11 August, 2021'),
-        summary:        "The group is using funding to continue its Advocate Advise Empower project which ensures people with disabilities in Hillingdon are supported through the claims process and to challenge incorrect decisions to obtain their correct entitlement to disability related benefits. This funding will also be used to upgrade the IT system to enable the group to track their users� journey better measure their impact and communicate this to stakeholders and funders. The project provides advice support and activities that allow disabled people to take control of their lives and become more independent confident and part of the community.", // 0045353644
+        summary:        "The group is using funding to continue its Advocate Advise Empower project which ensures people with disabilities in Hillingdon are supported through the claims process and to challenge incorrect decisions to obtain their correct entitlement to disability related benefits. This funding will also be used to upgrade the IT system to enable the group to track their users' journey better measure their impact and communicate this to stakeholders and funders. The project provides advice support and activities that allow disabled people to take control of their lives and become more independent confident and part of the community.", // 0045353644
         location:       "Botwell, Hayes and Harlington, Hillingdon",
         active:         false,
         programme:      "RC London and South East Region"
@@ -3017,11 +3017,11 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-covid-19-hot-meal-and-community-engagement",
         grant_href:     "/funding/grants/0045393595",
-        project_name:   "Covid-19 Hot Meal &amp; Community Engagement",
+        project_name:   "Covid-19 Hot Meal & Community Engagement",
         amount:         9821, // £ to
         orgType:        "Partnership",
-        // recipients:     "360g-tnlcomfung-org-M&amp;GProductions,
-        recipients:     "M &amp; G Productions",
+        // recipients:     "360g-tnlcomfung-org-M&GProductions,
+        recipients:     "M & G Productions",
         date:           new Date('5 August, 2021'),
         summary:        "The funding will be used to provide hot meals advice services and support for mental wellbeing. The project aims to alleviate hunger encourage social inclusion and provide access to employment opportunities and other practical support.", // 0045393595
         location:       "Broughton, Milton Keynes North, Milton Keynes",
@@ -3042,7 +3042,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-PCCofStMaryMagdaleneChurchDunton,
         recipients:     "PCC of St Mary Magdalene Church Dunton",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to set up a �pop-up� coffee shop for a rural village in West Anglia . The project aims to transform a community space in a way that will make it more accessible and welcoming to residents of the village and build strong relationships within the community.", // 0045393876
+        summary:        "The funding will be used to set up a 'pop-up' coffee shop for a rural village in West Anglia . The project aims to transform a community space in a way that will make it more accessible and welcoming to residents of the village and build strong relationships within the community.", // 0045393876
         location:       "Potton, North East Bedfordshire, Central Bedfordshire",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -3279,7 +3279,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1180409
         recipients:     "Newbiggin Village Hall",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to replace the furniture in the Community Caf� within the village hall which provides a space for local residents to meet socialise and make contact with local service providers. This aims to improve access to local facilities and mental health while also reducing isolation.", // 0045395224
+        summary:        "The funding will be used to replace the furniture in the Community café within the village hall which provides a space for local residents to meet socialise and make contact with local service providers. This aims to improve access to local facilities and mental health while also reducing isolation.", // 0045395224
         location:       "Dacre, Penrith and The Border, Eden",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -3344,7 +3344,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-covid-19-back-and-ethnic-minority-community-advocacy-and-support-awareness",
         grant_href:     "/funding/grants/0045394904",
-        project_name:   "COVID-19 Back &amp; Ethnic Minority community advocacy and support awareness",
+        project_name:   "COVID-19 Back & Ethnic Minority community advocacy and support awareness",
         amount:         9725, // £ to
         orgType:        "Faith Organisation",
         // recipients:     "GB-CHC-1107594
@@ -3503,7 +3503,7 @@ const projects = [    {
         recipients:     "Home-Start Horizons",
         date:           new Date('5 August, 2021'),
         summary:        "The group will use its funding over three years to support vulnerable families and individuals. It will allow for a continued response to the impact of the pandemic and lockdowns support the training and recruitment of volunteers provide families with support through stay-and-play sessions and home visits.", // 0045369212
-        location:       "Braunstone Park &amp; Rowley Fields, Leicester West, Leicester",
+        location:       "Braunstone Park & Rowley Fields, Leicester West, Leicester",
         active:         false,
         programme:      "RC Midlands Region"
      },
@@ -3776,7 +3776,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-yes-i-can-come-through-covid-stronger",
         grant_href:     "/funding/grants/0045404066",
-        project_name:   "�Yes-I-Can-Come-Through-Covid-Stronger�",
+        project_name:   "'Yes-I-Can-Come-Through-Covid-Stronger'",
         amount:         10000, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1131849
@@ -3802,7 +3802,7 @@ const projects = [    {
         recipients:     "Cumbria LGBT Pride",
         date:           new Date('5 August, 2021'),
         summary:        "The funding will be used to continue to delivering the annual Cumbria Pride event with the focus on mental health and wellbeing and to help increase awareness and support of Pride events and promote inclusion equality and diversity. This aims to reduce isolation and improve mental wellbeing.", // 0045396007
-        location:       "Cathedral &amp; Castle, Carlisle, Carlisle",
+        location:       "Cathedral & Castle, Carlisle, Carlisle",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -3852,7 +3852,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-social-and-horticultural-support-hub",
         grant_href:     "/funding/grants/0045395935",
-        project_name:   "Social &amp; horticultural support hub",
+        project_name:   "Social & horticultural support hub",
         amount:         9408, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-292578
@@ -3894,7 +3894,7 @@ const projects = [    {
         amount:         8791, // £ to
         orgType:        "Faith Organisation",
         // recipients:     "GB-CHC-1109922
-        recipients:     "Mansfield &amp; District Citizens Advice Bureau",
+        recipients:     "Mansfield & District Citizens Advice Bureau",
         date:           new Date('5 August, 2021'),
         summary:        "The funding will be used to recruit a support worker who will provide advice and awareness of the services available to people who are financially disadvantaged in the local community. The project aims to improve quality of life and mental wellbeing.", // 0045400360
         location:       "Woodlands, Mansfield, Mansfield",
@@ -3935,7 +3935,7 @@ const projects = [    {
         recipients:     "Making It Out CIO",
         date:           new Date('5 August, 2021'),
         summary:        "The group will use the funding to provide creative team building activities for local businesses and charities. This will improve skills and bring people together. Activities include creative workshops and learning new skills in ceramics forged metal visual arts jewellery modelling wood welded metal.", // 0045395867
-        location:       "West Chiltington, Thakeham &amp; Ashington, Arundel and South Downs, Horsham",
+        location:       "West Chiltington, Thakeham & Ashington, Arundel and South Downs, Horsham",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -3953,7 +3953,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1113049
         recipients:     "Rosie May Foundation",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to purchase an electric tuk tuk to convert into a coffee and juice bar which will help to expand the group�s mobile health and well-being activities for people from the local community who have been impacted by the pandemic. The project aims to support people with post-lockdown anxiety and help ease them out of lockdown and create a new support network for them.", // 0045400590
+        summary:        "The funding will be used to purchase an electric tuk tuk to convert into a coffee and juice bar which will help to expand the group's mobile health and well-being activities for people from the local community who have been impacted by the pandemic. The project aims to support people with post-lockdown anxiety and help ease them out of lockdown and create a new support network for them.", // 0045400590
         location:       "Bingham East, Newark, Rushcliffe",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -3972,7 +3972,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1146410
         recipients:     "Nottingham central womens Aid",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used by the group to redecorate rooms and purchase new furniture and equipment for the women�s refuge and provide clinical supervision sessions to continue supporting the women and children affected by domestic abuse. The project aims to improve living standards and support people�s needs.", // 0045400624
+        summary:        "The funding will be used by the group to redecorate rooms and purchase new furniture and equipment for the women's refuge and provide clinical supervision sessions to continue supporting the women and children affected by domestic abuse. The project aims to improve living standards and support people's needs.", // 0045400624
         location:       "St. Ann&#39;s, Nottingham East, Nottingham",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -3985,13 +3985,13 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-elmwood-community-caf-project",
         grant_href:     "/funding/grants/0045395618",
-        project_name:   "Elmwood Community Caf� Project",
+        project_name:   "Elmwood Community café Project",
         amount:         9900, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1154886
         recipients:     "Onsite Building Trust",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to refurbish the project's kitchen and conservatory roof of its community caf�. This will improve safety standards of the venue for groups and residents who access and enjoy the community facilities helping to reduce isolation.", // 0045395618
+        summary:        "The funding will be used to refurbish the project's kitchen and conservatory roof of its community café. This will improve safety standards of the venue for groups and residents who access and enjoy the community facilities helping to reduce isolation.", // 0045395618
         location:       "Hartburn, Stockton South, Stockton-on-Tees",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -4010,7 +4010,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1065618
         recipients:     "The life and soul kitchen limited",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to cover core costs to continue and expand the group's charity caf� and community hub which provides activities and opportunities for adults with disabilities following the aftermath of the pandemic. The project aims to overcome feelings of isolation and improve overall wellbeing whilst giving the beneficiaries a sense of purpose within their community.", // 0045400410
+        summary:        "The funding will be used to cover core costs to continue and expand the group's charity café and community hub which provides activities and opportunities for adults with disabilities following the aftermath of the pandemic. The project aims to overcome feelings of isolation and improve overall wellbeing whilst giving the beneficiaries a sense of purpose within their community.", // 0045400410
         location:       "Bobblestock, Hereford and South Herefordshire, Herefordshire, County of",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -4061,7 +4061,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-out-and-about",
         grant_href:     "/funding/grants/0045396644",
-        project_name:   "Out &amp; About",
+        project_name:   "Out & About",
         amount:         10000, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1133594
@@ -4105,8 +4105,8 @@ const projects = [    {
         // recipients:     "GB-CHC-1169511
         recipients:     "Oak Tree Animals&#39; Charity",
         date:           new Date('5 August, 2021'),
-        summary:        "The funding will be used to expand the project's �A Helping Paw� programme which supports those experiencing domestic violence or homelessness while also finding a temporary placement for their pet so they can be reunited after a safe permanent accommodation can be found for the owner. This aims to keep people safe while reducing isolation and improve wellbeing.", // 0045395849
-        location:       "Wetheral &amp; Corby, Carlisle, Carlisle",
+        summary:        "The funding will be used to expand the project's 'A Helping Paw' programme which supports those experiencing domestic violence or homelessness while also finding a temporary placement for their pet so they can be reunited after a safe permanent accommodation can be found for the owner. This aims to keep people safe while reducing isolation and improve wellbeing.", // 0045395849
+        location:       "Wetheral & Corby, Carlisle, Carlisle",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -4179,10 +4179,10 @@ const projects = [    {
         amount:         9996, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1132353
-        recipients:     "Lincoln &amp; Lindsey Blind Society",
+        recipients:     "Lincoln & Lindsey Blind Society",
         date:           new Date('5 August, 2021'),
         summary:        "The funding will be used by the group to cover staffing costs and to recruit a triage worker who will assess the needs of people living with sight loss and allocate them to the right specialist support and signpost them to the appropriate services.", // 0045400493
-        location:       "Priory &amp; St James&#39;, Louth and Horncastle, East Lindsey",
+        location:       "Priory & St James&#39;, Louth and Horncastle, East Lindsey",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -4200,7 +4200,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-MenInShedsSouthTyneside,
         recipients:     "Men In Sheds South Tyneside",
         date:           new Date('5 August, 2021'),
-        summary:        "The project will use the funding for its �Men in Sheds� group for older men (50+ years) including ex-servicemen in South Tyneside. They will maintain and replace woodwork equipment  machines and tools develop a website and provide digital inclusion training and trips. This aims to reduce isolation and improve mental wellbeing.", // 0045395662
+        summary:        "The project will use the funding for its 'Men in Sheds' group for older men (50+ years) including ex-servicemen in South Tyneside. They will maintain and replace woodwork equipment  machines and tools develop a website and provide digital inclusion training and trips. This aims to reduce isolation and improve mental wellbeing.", // 0045395662
         location:       "Boldon Colliery, Jarrow, South Tyneside",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -4312,9 +4312,9 @@ const projects = [    {
         amount:         9240, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-12966026
-        recipients:     "Warrior Martial Arts &amp; Boxing C.I.C",
+        recipients:     "Warrior Martial Arts & Boxing C.I.C",
         date:           new Date('28 July, 2021'),
-        summary:        "Warrior Martial Arts and Boxing CIC in Blaenau Gwent will use �9240 to deliver martial arts and boxing sessions which will focus on personal development and youth leadership skills. Bydd Warrior Martial Arts and Boxing CIC ym Mlaenau Gwent yn defnyddio �9240 i gyflwyno sesiynau celf a bocsio marmor a fydd yn canolbwyntio ar ddatblygiad personol a sgiliau arweinyddiaeth ieuenctid.", // 0045386680
+        summary:        "Warrior Martial Arts and Boxing CIC in Blaenau Gwent will use £9240 to deliver martial arts and boxing sessions which will focus on personal development and youth leadership skills. Bydd Warrior Martial Arts and Boxing CIC ym Mlaenau Gwent yn defnyddio '9240 i gyflwyno sesiynau celf a bocsio marmor a fydd yn canolbwyntio ar ddatblygiad personol a sgiliau arweinyddiaeth ieuenctid.", // 0045386680
         location:       "",
         active:         false,
         programme:     "National Lottery Awards for All Wales"
@@ -4333,7 +4333,7 @@ const projects = [    {
         // recipients:     "GB-COH-09606387
         recipients:     "Same but Different cic",
         date:           new Date('28 July, 2021'),
-        summary:        "Same but Different CIC in Flintshire will use �9800 to work with seven families who have loved ones that experienced palliative care to create an exhibition to highlight what matters most to them. Bydd Same but Different CIC yn Sir y Fflint yn defnyddio �9800 i weithio gyda saith teulu sydd ag anwyliaid sydd wedi profi gofal lliniarol i greu arddangosfa i dynnu sylw at yr hyn sydd bwysicaf iddynt.", // 0045391972
+        summary:        "Same but Different CIC in Flintshire will use £9800 to work with seven families who have loved ones that experienced palliative care to create an exhibition to highlight what matters most to them. Bydd Same but Different CIC yn Sir y Fflint yn defnyddio '9800 i weithio gyda saith teulu sydd ag anwyliaid sydd wedi profi gofal lliniarol i greu arddangosfa i dynnu sylw at yr hyn sydd bwysicaf iddynt.", // 0045391972
         location:       "Mold Broncoed, Delyn, Flintshire",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4353,7 +4353,7 @@ const projects = [    {
         recipients:     "Body Positive Dorset",
         date:           new Date('28 July, 2021'),
         summary:        "The organisation will use the funding to support people impacted by HIV and AIDs by providing counselling support to address mental health related issues.", // 0045392580
-        location:       "Westbourne &amp; West Cliff, Bournemouth West",
+        location:       "Westbourne & West Cliff, Bournemouth West",
         active:         true,
         programme:      "National Lottery Awards for All England"
      },
@@ -4466,7 +4466,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1167404
         recipients:     "Bristol Dementia Action Alliance",
         date:           new Date('28 July, 2021'),
-        summary:        "The organisation will use the funding to raise awareness about dementia within the wider community and support people with dementia through their memory caf� workshops and activities.", // 0045393599
+        summary:        "The organisation will use the funding to raise awareness about dementia within the wider community and support people with dementia through their memory café workshops and activities.", // 0045393599
         location:       "Westbury-on-Trym and Henleaze, Bristol North West, Bristol, City of",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -4485,7 +4485,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1151513
         recipients:     "TAPE Community Music and Film",
         date:           new Date('28 July, 2021'),
-        summary:        "TAPE Community Music and Film in Conwy will use �9180 to run their inclusive Media Club supporting people with Learning Disabilities and Mental Health Issues to improve their skills and confidence through production of films and organisation of events. Bydd TAPE Community Music and Film yng Nghonwy yn defnyddio �9180 i redeg eu Clwb Cyfryngau cynhwysol gan gefnogi pobl ag Anableddau Dysgu a Materion Iechyd Meddwl i wella eu sgiliau a'u hyder drwy gynhyrchu ffilmiau a threfnu digwyddiadau.", // 0045388658
+        summary:        "TAPE Community Music and Film in Conwy will use '9180 to run their inclusive Media Club supporting people with Learning Disabilities and Mental Health Issues to improve their skills and confidence through production of films and organisation of events. Bydd TAPE Community Music and Film yng Nghonwy yn defnyddio '9180 i redeg eu Clwb Cyfryngau cynhwysol gan gefnogi pobl ag Anableddau Dysgu a Materion Iechyd Meddwl i wella eu sgiliau a'u hyder drwy gynhyrchu ffilmiau a threfnu digwyddiadau.", // 0045388658
         location:       "Eirias, Clwyd West, Conwy",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4504,7 +4504,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1160531
         recipients:     "North Wales Recovery Communities",
         date:           new Date('28 July, 2021'),
-        summary:        "North Wales Recovery Communities in Gwynedd will use �10000 to support people with long term substance misuse issues to access their centre and run activities for people in recovery. Bydd Cymunedau Adfer Gogledd Cymru yng Ngwynedd yn defnyddio �10000 i gefnogi pobl � phroblemau hirdymor camddefnyddio sylweddau i gael mynediad i'w canolfan a rhedeg gweithgareddau i bobl sy'n gwella.", // 0045390665
+        summary:        "North Wales Recovery Communities in Gwynedd will use '10000 to support people with long term substance misuse issues to access their centre and run activities for people in recovery. Bydd Cymunedau Adfer Gogledd Cymru yng Ngwynedd yn defnyddio '10000 i gefnogi pobl & phroblemau hirdymor camddefnyddio sylweddau i gael mynediad i'w canolfan a rhedeg gweithgareddau i bobl sy'n gwella.", // 0045390665
         location:       "Marchog, Arfon, Gwynedd",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4523,7 +4523,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-KIRAN,
         recipients:     "KIRAN",
         date:           new Date('28 July, 2021'),
-        summary:        "KIRAN in Cardiff will use �9696 provide befriending and support to encourage socially isolated Black Asian minority ethnicity elders and young people to re-engage with wider community activities. Bydd KIRAN yng Nghaerdydd yn defnyddio �9696 i ddarparu cyfeillio a chymorth i annog pobl hn a phobl ifanc du Asiaidd lleiafrifoedd ethnig ynysig yn gymdeithasol i ailymgysylltu � gweithgareddau cymunedol ehangach.", // 0045391712
+        summary:        "KIRAN in Cardiff will use '9696 provide befriending and support to encourage socially isolated Black Asian minority ethnicity elders and young people to re-engage with wider community activities. Bydd KIRAN yng Nghaerdydd yn defnyddio '9696 i ddarparu cyfeillio a chymorth i annog pobl hn a phobl ifanc du Asiaidd lleiafrifoedd ethnig ynysig yn gymdeithasol i ailymgysylltu & gweithgareddau cymunedol ehangach.", // 0045391712
         location:       "Penylan, Cardiff Central, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4542,7 +4542,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-TheCorner,
         recipients:     "The Corner",
         date:           new Date('28 July, 2021'),
-        summary:        "The Corner in Cardiff will use �9050 to renovate and reopen a community hub facility for adult learning a food coop healthy eating workshops and other regular community events. Bydd The Corner yng Nghaerdydd yn defnyddio �9050 i adnewyddu ac ailagor cyfleuster hyb cymunedol ar gyfer dysgu oedolion coop bwyd gweithdai bwyta'n iach a digwyddiadau cymunedol rheolaidd eraill.", // 0045392240
+        summary:        "The Corner in Cardiff will use '9050 to renovate and reopen a community hub facility for adult learning a food coop healthy eating workshops and other regular community events. Bydd The Corner yng Nghaerdydd yn defnyddio '9050 i adnewyddu ac ailagor cyfleuster hyb cymunedol ar gyfer dysgu oedolion coop bwyd gweithdai bwyta'n iach a digwyddiadau cymunedol rheolaidd eraill.", // 0045392240
         location:       "Plasnewydd, Cardiff Central, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4561,7 +4561,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-HailshamMusicTheatre,
         recipients:     "Hailsham Music Theatre",
         date:           new Date('28 July, 2021'),
-        summary:        "The funding will be used to host a community outdoor event to bring the community together. The project aims to provide opportunities for residents to reconnect following COVID restrictions. The open-air Nostalgia Day will see  residents recreate a mainstay of old Hailsham�s calendar the community carnival. The day will feature stalls rides and walkabout characters. There will also be a memory ropewalk in which people will share their memories of Hailsham in print along a special �memory trail� around the town.", // 0045392533
+        summary:        "The funding will be used to host a community outdoor event to bring the community together. The project aims to provide opportunities for residents to reconnect following COVID restrictions. The open-air Nostalgia Day will see  residents recreate a mainstay of old Hailsham's calendar the community carnival. The day will feature stalls rides and walkabout characters. There will also be a memory ropewalk in which people will share their memories of Hailsham in print along a special 'memory trail' around the town.", // 0045392533
         location:       "Hailsham Central, Wealden, Wealden",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -4580,7 +4580,7 @@ const projects = [    {
         // recipients:     "GB-COH-06700481
         recipients:     "River And Sea Sense Ltd",
         date:           new Date('28 July, 2021'),
-        summary:        "River and Sea Sense Ltd in Conwy will use �9950 to educate young people and their parents about water safety through online sessions which are easily accessible to all even during the COVID-19 pandemic. Bydd River and Sea Sense Ltd yng Nghonwy yn defnyddio �9950 i addysgu pobl ifanc a'u rhieni am ddiogelwch dr drwy sesiynau ar-lein sy'n hawdd eu cyrraedd i bawb hyd yn oed yn ystod pandemig COVID-19.", // 0045392618
+        summary:        "River and Sea Sense Ltd in Conwy will use '9950 to educate young people and their parents about water safety through online sessions which are easily accessible to all even during the COVID-19 pandemic. Bydd River and Sea Sense Ltd yng Nghonwy yn defnyddio '9950 i addysgu pobl ifanc a'u rhieni am ddiogelwch dr drwy sesiynau ar-lein sy'n hawdd eu cyrraedd i bawb hyd yn oed yn ystod pandemig COVID-19.", // 0045392618
         location:       "Mostyn, Aberconwy, Conwy",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -4771,7 +4771,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-GlitterCymru,
         recipients:     "Glitter Cymru",
         date:           new Date('28 July, 2021'),
-        summary:        "Glitter Cymru in Cardiff will use �5800 to provide peer support for LGBTQ+ ethnic minority people to help improve their financial and mental welfare. Bydd Glitter Cymru yng Nghaerdydd yn defnyddio �5800 i ddarparu cefnogaeth cymheiriaid i bobl o leiafrifoedd ethnig LGBTQ+ i helpu i wella eu lles ariannol a meddyliol.", // 0045391655
+        summary:        "Glitter Cymru in Cardiff will use '5800 to provide peer support for LGBTQ+ ethnic minority people to help improve their financial and mental welfare. Bydd Glitter Cymru yng Nghaerdydd yn defnyddio '5800 i ddarparu cefnogaeth cymheiriaid i bobl o leiafrifoedd ethnig LGBTQ+ i helpu i wella eu lles ariannol a meddyliol.", // 0045391655
         location:       "Riverside, Cardiff West, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5016,7 +5016,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-PhysicalWellbeingProject,
         recipients:     "Physical Wellbeing Project",
         date:           new Date('28 July, 2021'),
-        summary:        "Physical Wellbeing Project in Carmarthen will use �9990 to provide physical activity and peer support sessions for people experiencing mental health difficulties. Bydd y Prosiect Lles Corfforol yng Nghaerfyrddin yn defnyddio �9990 i ddarparu sesiynau gweithgarwch corfforol a chymorth cymheiriaid i bobl sy'n profi anawsterau iechyd meddwl.", // 0045389702
+        summary:        "Physical Wellbeing Project in Carmarthen will use '9990 to provide physical activity and peer support sessions for people experiencing mental health difficulties. Bydd y Prosiect Lles Corfforol yng Nghaerfyrddin yn defnyddio '9990 i ddarparu sesiynau gweithgarwch corfforol a chymorth cymheiriaid i bobl sy'n profi anawsterau iechyd meddwl.", // 0045389702
         location:       "Carmarthen Town South, Carmarthen West and South Pembrokeshire, Carmarthenshire",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5073,7 +5073,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1187288
         recipients:     "Kotatsu Japanese Animation Festival",
         date:           new Date('28 July, 2021'),
-        summary:        "Kotatsu Japanese Animation Festival will use �10000 to provide animation workshops and Japanese cultural activities for people of all ages and cultures in Cardiff and Aberystwyth. Bydd Gyl Animeiddio Japaneaidd Kotatsu yn defnyddio �10000 i ddarparu gweithdai animeiddio a gweithgareddau diwylliannol Japan i bobl o bob oed a diwylliant yng Nghaerdydd ac Aberystwyth.", // 0045397145
+        summary:        "Kotatsu Japanese Animation Festival will use '10000 to provide animation workshops and Japanese cultural activities for people of all ages and cultures in Cardiff and Aberystwyth. Bydd Gyl Animeiddio Japaneaidd Kotatsu yn defnyddio '10000 i ddarparu gweithdai animeiddio a gweithgareddau diwylliannol Japan i bobl o bob oed a diwylliant yng Nghaerdydd ac Aberystwyth.", // 0045397145
         location:       "Canton, Cardiff West, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5149,7 +5149,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1162703
         recipients:     "Llysfaen Singers",
         date:           new Date('28 July, 2021'),
-        summary:        "Llysfaen Singers in Cardiff will use �1600 improve the health and wellbeing of older and vulnerable people through regular choir rehearsals and concerts. Bydd Llysfaen Singers yng Nghaerdydd yn defnyddio �1600 i wella iechyd a lles pobl hn a bregus drwy ymarferion a chyngherddau c�r rheolaidd.", // 0045392004
+        summary:        "Llysfaen Singers in Cardiff will use '1600 improve the health and wellbeing of older and vulnerable people through regular choir rehearsals and concerts. Bydd Llysfaen Singers yng Nghaerdydd yn defnyddio '1600 i wella iechyd a lles pobl hn a bregus drwy ymarferion a chyngherddau c'r rheolaidd.", // 0045392004
         location:       "Lisvane, Cardiff North, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5162,7 +5162,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-creatively-combating-isolation-and-loneliness",
         grant_href:     "/funding/grants/0045392859",
-        project_name:   "Creatively Combating Isolation &amp; Loneliness",
+        project_name:   "Creatively Combating Isolation & Loneliness",
         amount:         10000, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-290124
@@ -5225,7 +5225,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-NewDockStarsRFC,
         recipients:     "New Dock Stars RFC",
         date:           new Date('28 July, 2021'),
-        summary:        "New Dock Stars RFC in Llanelli will use �10000 to increase accessibility to enable disabled and older community members to use their community hall for social and recreational activities. Bydd Clwb Rygbi New Dock Stars yn Llanelli yn defnyddio �10000 i gynyddu hygyrchedd i alluogi aelodau anabl a hn o'r gymuned i ddefnyddio eu neuadd gymunedol ar gyfer gweithgareddau cymdeithasol a hamdden.", // 0045390148
+        summary:        "New Dock Stars RFC in Llanelli will use '10000 to increase accessibility to enable disabled and older community members to use their community hall for social and recreational activities. Bydd Clwb Rygbi New Dock Stars yn Llanelli yn defnyddio '10000 i gynyddu hygyrchedd i alluogi aelodau anabl a hn o'r gymuned i ddefnyddio eu neuadd gymunedol ar gyfer gweithgareddau cymdeithasol a hamdden.", // 0045390148
         location:       "Bigyn, Llanelli, Carmarthenshire",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5339,7 +5339,7 @@ const projects = [    {
         // recipients:     "GB-COH-13063348
         recipients:     "Represent Us Rural Ltd",
         date:           new Date('28 July, 2021'),
-        summary:        "Represent Us Rural Ltd in Carmarthenshire will use �10000 to set up a safe place for black and mixed-race young people to meet up online to share experiences and build their community. Bydd Represent Us Rural Ltd yn Sir Gaerfyrddin yn defnyddio �10000 i sefydlu lle diogel i bobl ifanc du a hil gymysg gyfarfod ar-lein i rannu profiadau ac adeiladu eu cymuned.", // 0045385204
+        summary:        "Represent Us Rural Ltd in Carmarthenshire will use '10000 to set up a safe place for black and mixed-race young people to meet up online to share experiences and build their community. Bydd Represent Us Rural Ltd yn Sir Gaerfyrddin yn defnyddio '10000 i sefydlu lle diogel i bobl ifanc du a hil gymysg gyfarfod ar-lein i rannu profiadau ac adeiladu eu cymuned.", // 0045385204
         location:       "Llandybie, Carmarthen East and Dinefwr, Carmarthenshire",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5390,13 +5390,13 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-connect-to-crafts-and-chat-and-wasteless-workshops",
         grant_href:     "/funding/grants/0045387331",
-        project_name:   "Connect to Crafts &amp; Chat and Wasteless Workshops",
+        project_name:   "Connect to Crafts & Chat and Wasteless Workshops",
         amount:         10000, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-07916849
         recipients:     "The Big Skill C.I.C",
         date:           new Date('28 July, 2021'),
-        summary:        "The Big Skills C.I.C in Powys will use �10000 to provide weekly craft sessions at six different community centres and also weekly craft zoom sessions. Bydd y Big Skills C.I.C ym Mhowys yn defnyddio �10000 i ddarparu sesiynau crefft wythnosol mewn chwe chanolfan gymunedol wahanol a hefyd sesiynau crefft wythnosol ar zoom.", // 0045387331
+        summary:        "The Big Skills C.I.C in Powys will use '10000 to provide weekly craft sessions at six different community centres and also weekly craft zoom sessions. Bydd y Big Skills C.I.C ym Mhowys yn defnyddio '10000 i ddarparu sesiynau crefft wythnosol mewn chwe chanolfan gymunedol wahanol a hefyd sesiynau crefft wythnosol ar zoom.", // 0045387331
         location:       "Hay, Brecon and Radnorshire, Powys",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5415,7 +5415,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1175699
         recipients:     "Cardiff Bangladeshi Society",
         date:           new Date('28 July, 2021'),
-        summary:        "Cardiff Bangladeshi Society will use �9999 to provide homework clubs and self-defence lessons for children and families of Bangladeshi origin who live in Cardiff. Bydd Cymdeithas Bangladeshaidd Caerdydd yn defnyddio �9999 i ddarparu clybiau gwaith cartref a gwersi hunanamddiffyn i blant a theuluoedd o dras Bangladeshaidd sy'n byw yng Nghaerdydd.", // 0045391784
+        summary:        "Cardiff Bangladeshi Society will use '9999 to provide homework clubs and self-defence lessons for children and families of Bangladeshi origin who live in Cardiff. Bydd Cymdeithas Bangladeshaidd Caerdydd yn defnyddio '9999 i ddarparu clybiau gwaith cartref a gwersi hunanamddiffyn i blant a theuluoedd o dras Bangladeshaidd sy'n byw yng Nghaerdydd.", // 0045391784
         location:       "Riverside, Cardiff West, Cardiff",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5434,7 +5434,7 @@ const projects = [    {
         // recipients:     "GB-COH-13342079
         recipients:     "Fiery Jacks C.I.C.",
         date:           new Date('28 July, 2021'),
-        summary:        "Fiery Jacks C.I.C will use �7422 to provide structured learning activities for children who are home educated in the Vale of Glamorgan. Bydd Fiery Jacks C.I.C. yng Nghaerdydd yn defnyddio �7422 i ddarparu gweithgareddau dysgu strwythuredig i blant sy'n cael eu haddysgu gartref ym Mro Morgannwg.", // 0045393340
+        summary:        "Fiery Jacks C.I.C will use '7422 to provide structured learning activities for children who are home educated in the Vale of Glamorgan. Bydd Fiery Jacks C.I.C. yng Nghaerdydd yn defnyddio '7422 i ddarparu gweithgareddau dysgu strwythuredig i blant sy'n cael eu haddysgu gartref ym Mro Morgannwg.", // 0045393340
         location:       "Cowbridge, Vale of Glamorgan, Vale of Glamorgan",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5473,7 +5473,7 @@ const projects = [    {
         recipients:     "Yewdale Community Foundation",
         date:           new Date('28 July, 2021'),
         summary:        "The project will use the funding to improve its community centre by creating an outdoor covered seating area. This new facility will enable local residents to access community workshops and activities outdoors as well as providing a safe meeting place. This aims to reduce isolation and improve wellbeing.", // 0045393682
-        location:       "Sandsfield &amp; Morton West, Carlisle, Carlisle",
+        location:       "Sandsfield & Morton West, Carlisle, Carlisle",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -5491,7 +5491,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-ArchdioceseofCardiffStDavidLewisandStFrancisXavierParishChurch,
         recipients:     "Archdiocese of Cardiff St David Lewis and St Francis Xavier Parish Church",
         date:           new Date('28 July, 2021'),
-        summary:        "Archdiocese of Cardiff St David Lewis and St Francis Xavier Parish Church in Monmouthshire will use �9966 to renovate their community hall so they can host regular events and activities for older people who have been isolated as a result of COVID-19. Bydd Archesgobaeth Caerdydd Dewi Sant Lewis ac Eglwys Blwyf St Francis Xavier yn Sir Fynwy yn defnyddio �9966 i adnewyddu eu neuadd gymunedol fel y gallant gynnal digwyddiadau a gweithgareddau rheolaidd i bobl hn sydd wedi'u hynysu o ganlyniad i COVID-19.", // 0045388570
+        summary:        "Archdiocese of Cardiff St David Lewis and St Francis Xavier Parish Church in Monmouthshire will use '9966 to renovate their community hall so they can host regular events and activities for older people who have been isolated as a result of COVID-19. Bydd Archesgobaeth Caerdydd Dewi Sant Lewis ac Eglwys Blwyf St Francis Xavier yn Sir Fynwy yn defnyddio '9966 i adnewyddu eu neuadd gymunedol fel y gallant gynnal digwyddiadau a gweithgareddau rheolaidd i bobl hn sydd wedi'u hynysu o ganlyniad i COVID-19.", // 0045388570
         location:       "Usk, Monmouth, Monmouthshire",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5510,7 +5510,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-PegswoodParishCouncil,
         recipients:     "Pegswood Parish Council",
         date:           new Date('28 July, 2021'),
-        summary:        "The project will used the funding to purchase play equipment and transform an old bowling green into a �natural play� area for children and replace equipment in an adjacent park.  This will improve the play facilities for younger children and families to access with the aim to reduce isolation and improve wellbeing.", // 0045393768
+        summary:        "The project will used the funding to purchase play equipment and transform an old bowling green into a 'natural play' area for children and replace equipment in an adjacent park.  This will improve the play facilities for younger children and families to access with the aim to reduce isolation and improve wellbeing.", // 0045393768
         location:       "Wansbeck, Northumberland",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -5529,7 +5529,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1010576
         recipients:     "St David&#39;s Foundation Hospice Care",
         date:           new Date('28 July, 2021'),
-        summary:        "St David�s Foundation Hospice Care in Newport will use �10000 to refurbish their day centre so services can be delivered in a more informal environment and people can pop in for support when required. Bydd Gofal Hosbis Sefydliad Dewi Sant yng Nghasnewydd yn defnyddio �10000 i adnewyddu eu canolfan ddydd fel y gellir darparu gwasanaethau mewn amgylchedd mwy anffurfiol a gall pobl alw heibio am gymorth pan fo angen.", // 0045385528
+        summary:        "St David's Foundation Hospice Care in Newport will use '10000 to refurbish their day centre so services can be delivered in a more informal environment and people can pop in for support when required. Bydd Gofal Hosbis Sefydliad Dewi Sant yng Nghasnewydd yn defnyddio '10000 i adnewyddu eu canolfan ddydd fel y gellir darparu gwasanaethau mewn amgylchedd mwy anffurfiol a gall pobl alw heibio am gymorth pan fo angen.", // 0045385528
         location:       "Malpas, Newport West, Newport",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5586,7 +5586,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1189677
         recipients:     "Congolese Development Project",
         date:           new Date('28 July, 2021'),
-        summary:        "Congolese Development Project in Swansea will use �9990 to provide counselling sessions and yoga classes to support unemployed women whose mental health has been negatively affected by the pandemic. Congolese Development Project in Swansea will use �9990 to provide counselling sessions and yoga classes to support unemployed women whose mental health has been negatively affected by the pandemic.", // 0045389239
+        summary:        "Congolese Development Project in Swansea will use '9990 to provide counselling sessions and yoga classes to support unemployed women whose mental health has been negatively affected by the pandemic. Congolese Development Project in Swansea will use '9990 to provide counselling sessions and yoga classes to support unemployed women whose mental health has been negatively affected by the pandemic.", // 0045389239
         location:       "Castle, Swansea West, Swansea",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5605,7 +5605,7 @@ const projects = [    {
         // recipients:     "GB-COH-13240862
         recipients:     "Learn via Saints Community Interest Company",
         date:           new Date('28 July, 2021'),
-        summary:        "Learn Via Saints Community Interest Company will use �9980 to run a programme of sporting play and environmental activities that improve young people�s health and wellbeing and bring their community closer together. Bydd Learn Via Saints Community Interest Company yn defnyddio �9980 i gynnal rhaglen o weithgareddau chwaraeon chwarae ac amgylcheddol sy'n gwella iechyd a lles pobl ifanc ac yn dod �'u cymuned yn agosach at ei gilydd.", // 0045392508
+        summary:        "Learn Via Saints Community Interest Company will use '9980 to run a programme of sporting play and environmental activities that improve young people's health and wellbeing and bring their community closer together. Bydd Learn Via Saints Community Interest Company yn defnyddio '9980 i gynnal rhaglen o weithgareddau chwaraeon chwarae ac amgylcheddol sy'n gwella iechyd a lles pobl ifanc ac yn dod ''u cymuned yn agosach at ei gilydd.", // 0045392508
         location:       "St. Athan, Vale of Glamorgan, Vale of Glamorgan",
         active:         false,
         programme:      "National Lottery Awards for All Wales"
@@ -5765,7 +5765,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-equipment-for-disabled-drivers-and-instructors",
         grant_href:     "/funding/grants/0045390535",
-        project_name:   "Equipment for Disabled Drivers &amp; Instructors",
+        project_name:   "Equipment for Disabled Drivers & Instructors",
         amount:         8212, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-SC049815
@@ -5844,8 +5844,8 @@ const projects = [    {
         project_name:   "Darvel Christmas Lights",
         amount:         8000, // £ to
         orgType:        "Partnership",
-        // recipients:     "360g-tnlcomfung-org-Darvel&amp;DistrictCommunityCouncil,
-        recipients:     "Darvel &amp; District Community Council",
+        // recipients:     "360g-tnlcomfung-org-Darvel&DistrictCommunityCouncil,
+        recipients:     "Darvel & District Community Council",
         date:           new Date('25 July, 2021'),
         summary:        "This grant will fund festive lights for the town of Darvel in the Irvine Valley.", // 0045391223
         location:       "Irvine Valley, Kilmarnock and Loudoun, East Ayrshire",
@@ -5893,7 +5893,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-newton-stewart-and-minnigaff-traditional-music-and-dance-festival",
         grant_href:     "/funding/grants/0045392524",
-        project_name:   "Newton Stewart &amp; Minnigaff Traditional Music &amp; Dance Festival",
+        project_name:   "Newton Stewart & Minnigaff Traditional Music & Dance Festival",
         amount:         9299, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-SC048610
@@ -6146,7 +6146,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1147785
         recipients:     "Manna House (Cumbria)",
         date:           new Date('22 July, 2021'),
-        summary:        "The project will use the funding to purchase and install two �Homeless Pods� at their grounds which include a bed toilet and solar panel for plugging devices. This will provide emergency accommodation and a safe environment for homeless people throughout the year. This aims to reduce isolation and improve wellbeing.", // 0045392278
+        summary:        "The project will use the funding to purchase and install two 'Homeless Pods' at their grounds which include a bed toilet and solar panel for plugging devices. This will provide emergency accommodation and a safe environment for homeless people throughout the year. This aims to reduce isolation and improve wellbeing.", // 0045392278
         location:       "Kendal Town, Westmorland and Lonsdale, South Lakeland",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -6280,7 +6280,7 @@ const projects = [    {
         recipients:     "Cameroon Support Group",
         date:           new Date('22 July, 2021'),
         summary:        "The group will use the funding to deliver a Saturday club to support refugee and asylum-seeking young people to develop their academic abilities. The project aims to support learning for children/young people who use English as their second or third language.", // 0045394394
-        location:       "Hyson Green &amp; Arboretum, Nottingham East, Nottingham",
+        location:       "Hyson Green & Arboretum, Nottingham East, Nottingham",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -6330,7 +6330,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-community-engagement-and-partnerships",
         grant_href:     "/funding/grants/0045392202",
-        project_name:   "Community Engagement &amp; Partnerships",
+        project_name:   "Community Engagement & Partnerships",
         amount:         9754, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1177960
@@ -6387,7 +6387,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-asperger&#39;s-and-autism-counselling",
         grant_href:     "/funding/grants/0045393815",
-        project_name:   "Asperger&#39;s &amp; Autism Counselling",
+        project_name:   "Asperger&#39;s & Autism Counselling",
         amount:         8000, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1148790
@@ -6412,7 +6412,7 @@ const projects = [    {
         // recipients:     "360g-tnlcomfung-org-LonghorsleyParishCouncil,
         recipients:     "Longhorsley Parish Council",
         date:           new Date('22 July, 2021'),
-        summary:        "The project will use the funding to refurbish Archie�s Pond and the nearby pond in Longhorsley. They will replace the information board and benches install bat and bird boxes and enhance the pond platforms and repair and resurface the pathways.  This aims to improve safety and accessibility to the area while reducing isolation and improving wellbeing.", // 0045392951
+        summary:        "The project will use the funding to refurbish Archie's Pond and the nearby pond in Longhorsley. They will replace the information board and benches install bat and bird boxes and enhance the pond platforms and repair and resurface the pathways.  This aims to improve safety and accessibility to the area while reducing isolation and improving wellbeing.", // 0045392951
         location:       "Longhorsley, Berwick-upon-Tweed, Northumberland",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -6432,7 +6432,7 @@ const projects = [    {
         recipients:     "Dale Abbey Parish Council",
         date:           new Date('22 July, 2021'),
         summary:        "The funding will be used to refurbish the local community playing field.  The project aims to enable the community to have access to a play area and help reduce rural isolation following Covid-19 whilst improving both physical and mental health.", // 0045394265
-        location:       "West Hallam &amp; Dale Abbey, Mid Derbyshire, Erewash",
+        location:       "West Hallam & Dale Abbey, Mid Derbyshire, Erewash",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -6463,11 +6463,11 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-day-of-compassion-for-brighton-and-hove",
         grant_href:     "/funding/grants/0045391606",
-        project_name:   "Day of Compassion for Brighton &amp; Hove",
+        project_name:   "Day of Compassion for Brighton & Hove",
         amount:         9600, // £ to
         orgType:        "Partnership",
-        // recipients:     "360g-tnlcomfung-org-Brighton&amp;HoveInterfaithContactGroup,
-        recipients:     "Brighton &amp; Hove Interfaith Contact Group",
+        // recipients:     "360g-tnlcomfung-org-Brighton&HoveInterfaithContactGroup,
+        recipients:     "Brighton & Hove Interfaith Contact Group",
         date:           new Date('22 July, 2021'),
         summary:        "The funding will be used to provide an interfaith memorial service to remember those that have lost their life as a result of the COVID-19 pandemic. This will bring people together and reduce social isolation especially for those affected the most by the pandemic. The Day of Compassion is a collaboration between the Brighton & Hove Interfaith Contact Group the Mayor of Britain & Hove The Brighton Dome and other community partners. The event will also celebrate the work of a wide variety of essential workers in the area.", // 0045391606
         location:       "St. Peter&#39;s and North Laine, Brighton, Pavilion, Brighton and Hove",
@@ -6558,7 +6558,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-mental-health-and-wellbeing-recovery-post-covid",
         grant_href:     "/funding/grants/0045394538",
-        project_name:   "Mental Health &amp; Wellbeing Recovery Post Covid",
+        project_name:   "Mental Health & Wellbeing Recovery Post Covid",
         amount:         9670, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1145774
@@ -6602,7 +6602,7 @@ const projects = [    {
         // recipients:     "GB-COH-11703274
         recipients:     "Acton Arts CIC",
         date:           new Date('22 July, 2021'),
-        summary:        "The group is using funding furnish and enhance the caf� and gallery to create a lively community hub and a much-needed non-denominational setting for people to meet.", // 0045392411
+        summary:        "The group is using funding furnish and enhance the café and gallery to create a lively community hub and a much-needed non-denominational setting for people to meet.", // 0045392411
         location:       "South Acton, Ealing Central and Acton, Ealing",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -6615,7 +6615,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-sew-and-reap",
         grant_href:     "/funding/grants/0045391268",
-        project_name:   "Sew &amp; Reap",
+        project_name:   "Sew & Reap",
         amount:         9555, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1145906
@@ -6678,7 +6678,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1186101
         recipients:     "Dor L&#39;Dor",
         date:           new Date('22 July, 2021'),
-        summary:        "The funding will be used to support families from the Orthodox Jewish community. The project aims to provide parenting workshops which will focus on post lockdown trauma conflict resolution and children�s wellbeing.", // 0045392886
+        summary:        "The funding will be used to support families from the Orthodox Jewish community. The project aims to provide parenting workshops which will focus on post lockdown trauma conflict resolution and children's wellbeing.", // 0045392886
         location:       "Sedgley, Bury South, Bury",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -6697,7 +6697,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1100459
         recipients:     "HealthProm",
         date:           new Date('22 July, 2021'),
-        summary:        "The funding will be used to provide support for vulnerable migrant women in Islington. The project aims to increase participants� confidence and skills to improve their employment prospects and mental health and wellbeing.", // 0045391869
+        summary:        "The funding will be used to provide support for vulnerable migrant women in Islington. The project aims to increase participants' confidence and skills to improve their employment prospects and mental health and wellbeing.", // 0045391869
         location:       "Barnsbury, Islington South and Finsbury, Islington",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -6847,7 +6847,7 @@ const projects = [    {
         amount:         10000, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1126869
-        recipients:     "Kidz Klub Brighton &amp; Hove",
+        recipients:     "Kidz Klub Brighton & Hove",
         date:           new Date('22 July, 2021'),
         summary:        "The group will use the funding to pay for a member of staff who will help the group run a variety of positive social activities for children from economically disadvantaged families. This will help vulnerable people and reduce social isolation.", // 0045392571
         location:       "South Portslade, Hove, Brighton and Hove",
@@ -6866,10 +6866,10 @@ const projects = [    {
         amount:         4630, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-702464
-        recipients:     "Mollington Backford &amp; District Village Hall",
+        recipients:     "Mollington Backford & District Village Hall",
         date:           new Date('22 July, 2021'),
         summary:        "The organisation will replace the chairs and tables in their community hall which is no longer fit for purpose with the aim of improving a community facility.", // 0045393790
-        location:       "Saughall &amp; Mollington, City of Chester, Cheshire West and Chester",
+        location:       "Saughall & Mollington, City of Chester, Cheshire West and Chester",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -6907,7 +6907,7 @@ const projects = [    {
         recipients:     "Inkpen Memorial Playing Field Trust (IMPFT)",
         date:           new Date('22 July, 2021'),
         summary:        "The funding will be used to make further improvements to playground facilities. The project aims to improve a well used space in a rurally isolated area and bring people together.", // 0045391878
-        location:       "Hungerford &amp; Kintbury, Newbury, West Berkshire",
+        location:       "Hungerford & Kintbury, Newbury, West Berkshire",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -6945,7 +6945,7 @@ const projects = [    {
         recipients:     "The Diverse Creative CIC",
         date:           new Date('22 July, 2021'),
         summary:        "The funding will be used to run business and employment workshops for people with disabilities. The project aims to improve skills and people's chances in life.", // 0045392686
-        location:       "Nunhead &amp; Queen&#39;s Road, Camberwell and Peckham, Southwark",
+        location:       "Nunhead & Queen&#39;s Road, Camberwell and Peckham, Southwark",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -6982,7 +6982,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1048017
         recipients:     "Centre of Sign-Sight-Sound (Y Ganolfan Arwyddo Sain a Golwg)",
         date:           new Date('21 July, 2021'),
-        summary:        "Using �298235 over three years The Centre of Sign-Sight-Sound in Conwy will work with the sensory loss community throughout North Wales to develop awareness training. This will be accessed by staff of businesses retailers and tourist sectors and will develop accessible media clips that will be hosted at historical sites. The aim of the project is to connect the sensory loss community with the wider community in which they live. Gan ddefnyddio �298235 dros dair blynedd bydd y Ganolfan Arwyddo Sain a Golwg yng Nghonwy yn gweithio gyda'r gymuned colli synhwyraidd ledled Gogledd Cymru i ddatblygu hyfforddiant ymwybyddiaeth. Bydd staff busnesau manwerthwyr a'r sectorau twristiaeth yn defnyddio hwn a bydd yn datblygu clipiau hygyrch o'r cyfryngau a fydd yn cael eu cynnal ar safleoedd hanesyddol. Nod y prosiect yw cysylltu'r gymuned colli synhwyraidd �'r gymuned ehangach y maent yn byw ynddi.", // 0045349792
+        summary:        "Using '298235 over three years The Centre of Sign-Sight-Sound in Conwy will work with the sensory loss community throughout North Wales to develop awareness training. This will be accessed by staff of businesses retailers and tourist sectors and will develop accessible media clips that will be hosted at historical sites. The aim of the project is to connect the sensory loss community with the wider community in which they live. Gan ddefnyddio '298235 dros dair blynedd bydd y Ganolfan Arwyddo Sain a Golwg yng Nghonwy yn gweithio gyda'r gymuned colli synhwyraidd ledled Gogledd Cymru i ddatblygu hyfforddiant ymwybyddiaeth. Bydd staff busnesau manwerthwyr a'r sectorau twristiaeth yn defnyddio hwn a bydd yn datblygu clipiau hygyrch o'r cyfryngau a fydd yn cael eu cynnal ar safleoedd hanesyddol. Nod y prosiect yw cysylltu'r gymuned colli synhwyraidd ''r gymuned ehangach y maent yn byw ynddi.", // 0045349792
         location:       "Rhiw, Clwyd West, Conwy",
         active:         false,
         programme:      "People and Places 3"
@@ -7001,7 +7001,7 @@ const projects = [    {
         // recipients:     "GB-CHC-224337
         recipients:     "RSPCA Llys Nini (service Cardiff to Swansea)",
         date:           new Date('21 July, 2021'),
-        summary:        "RSPCA Llys Nini Branch will use �400000 to build a financially sustainable community complex which will improve people�s wellbeing secure jobs provide training and volunteering opportunities promote opportunities to socialise. It will also prevent things going to landfill and reduce the community�s carbon footprint. The facility will contain a meeting/ classroom a donation point and shop an upcycling workshop an indoor community space and a caf� with indoor play area. It will also enhance their �Animals Helping People� programme increase the use of the playground by preschool children with their carers and provide dog-related activities to provide opportunities for socialising to people who live alone. Bydd Cangen Llys Nini RSPCA yn defnyddio �400000 i adeiladu canolfan gymunedol sy'n gynaliadwy yn ariannol a fydd yn gwella lles pobl yn sicrhau swyddi yn darparu cyfleoedd hyfforddi a gwirfoddoli yn hyrwyddo cyfleoedd i gymdeithasu. Bydd hefyd yn atal pethau rhag mynd i safleoedd tirlenwi a lleihau �l troed carbon y gymuned.Bydd y cyfleuster yn cynnwys ystafell gyfarfod/ddosbarth man rhoi arian a siop gweithdy uwchgylchu gofod cymunedol dan do a chaffi gydag ardal chwarae dan do. Bydd hefyd yn gwella eu rhaglen �Animals Helping People� yn cynyddu'r defnydd o'r iard chwarae gan blant cyn oed ysgol gyda'u gofalwyr ac yn darparu gweithgareddau sy'n gysylltiedig � chn i ddarparu cyfleoedd i gymdeithasu � phobl sy'n byw ar eu pennau eu hunain.", // 0045347926
+        summary:        "RSPCA Llys Nini Branch will use '400000 to build a financially sustainable community complex which will improve people's wellbeing secure jobs provide training and volunteering opportunities promote opportunities to socialise. It will also prevent things going to landfill and reduce the community's carbon footprint. The facility will contain a meeting/ classroom a donation point and shop an upcycling workshop an indoor community space and a café with indoor play area. It will also enhance their 'Animals Helping People' programme increase the use of the playground by preschool children with their carers and provide dog-related activities to provide opportunities for socialising to people who live alone. Bydd Cangen Llys Nini RSPCA yn defnyddio '400000 i adeiladu canolfan gymunedol sy'n gynaliadwy yn ariannol a fydd yn gwella lles pobl yn sicrhau swyddi yn darparu cyfleoedd hyfforddi a gwirfoddoli yn hyrwyddo cyfleoedd i gymdeithasu. Bydd hefyd yn atal pethau rhag mynd i safleoedd tirlenwi a lleihau 'l troed carbon y gymuned.Bydd y cyfleuster yn cynnwys ystafell gyfarfod/ddosbarth man rhoi arian a siop gweithdy uwchgylchu gofod cymunedol dan do a chaffi gydag ardal chwarae dan do. Bydd hefyd yn gwella eu rhaglen 'Animals Helping People' yn cynyddu'r defnydd o'r iard chwarae gan blant cyn oed ysgol gyda'u gofalwyr ac yn darparu gweithgareddau sy'n gysylltiedig & chn i ddarparu cyfleoedd i gymdeithasu & phobl sy'n byw ar eu pennau eu hunain.", // 0045347926
         location:       "Penllergaer, Gower, Swansea",
         active:         false,
         programme:      "People and Places 3"
@@ -7020,7 +7020,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1001198
         recipients:     "The Macular Disease Society",
         date:           new Date('21 July, 2021'),
-        summary:        "Using �300000 over five years The Macular Disease Society will build on their previous project to deliver peer and practical support advice and information to people in Wales with macular disease. The project will support 2560 beneficiaries whilst raising awareness of macular disease and the support available. Gan ddefnyddio �300000 dros bum mlynedd bydd Cymdeithas Clefyd Macular yn adeiladu ar eu prosiect blaenorol i ddarparu cymorth cyngor a gwybodaeth ymarferol gan gyfoedion i bobl yng Nghymru sydd � chlefyd macwlaidd. Bydd y prosiect yn cefnogi 2560 o fuddiolwyr tra'n codi ymwybyddiaeth o glefyd macwlaidd a'r cymorth sydd ar gael.", // 0045351893
+        summary:        "Using '300000 over five years The Macular Disease Society will build on their previous project to deliver peer and practical support advice and information to people in Wales with macular disease. The project will support 2560 beneficiaries whilst raising awareness of macular disease and the support available. Gan ddefnyddio '300000 dros bum mlynedd bydd Cymdeithas Clefyd Macular yn adeiladu ar eu prosiect blaenorol i ddarparu cymorth cyngor a gwybodaeth ymarferol gan gyfoedion i bobl yng Nghymru sydd & chlefyd macwlaidd. Bydd y prosiect yn cefnogi 2560 o fuddiolwyr tra'n codi ymwybyddiaeth o glefyd macwlaidd a'r cymorth sydd ar gael.", // 0045351893
         location:       "Andover Winton, North West Hampshire, Test Valley",
         active:         false,
         programme:      "People and Places 3"
@@ -7039,7 +7039,7 @@ const projects = [    {
         // recipients:     "GB-CHC-218186
         recipients:     "Leonard Cheshire Disability",
         date:           new Date('21 July, 2021'),
-        summary:        "Using �299358 over three years Leonard Cheshire will give the opportunity for disabled people of all ages to discuss issues develop priorities and improve connections with their communities. They will be supported to use their personal strengths and skills to influence organisations and services in their communities. Gan ddefnyddio �299358 dros dair blynedd bydd Leonard Cheshire yn rhoi cyfle i bobl anabl o bob oed drafod materion datblygu blaenoriaethau a gwella cysylltiadau �'u cymunedau. Byddant yn cael eu cefnogi i ddefnyddio eu cryfderau a'u sgiliau personol i ddylanwadu ar sefydliadau a gwasanaethau yn eu cymunedau.", // 0045349898
+        summary:        "Using '299358 over three years Leonard Cheshire will give the opportunity for disabled people of all ages to discuss issues develop priorities and improve connections with their communities. They will be supported to use their personal strengths and skills to influence organisations and services in their communities. Gan ddefnyddio '299358 dros dair blynedd bydd Leonard Cheshire yn rhoi cyfle i bobl anabl o bob oed drafod materion datblygu blaenoriaethau a gwella cysylltiadau ''u cymunedau. Byddant yn cael eu cefnogi i ddefnyddio eu cryfderau a'u sgiliau personol i ddylanwadu ar sefydliadau a gwasanaethau yn eu cymunedau.", // 0045349898
         location:       "Castle, Swansea West, Swansea",
         active:         false,
         programme:      "People and Places 3"
@@ -7058,7 +7058,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1126120
         recipients:     "New Pathways Family Friendly Therapeutic Centre of Excellence",
         date:           new Date('21 July, 2021'),
-        summary:        "Using �297814 over three years New Pathways Family Friendly Therapeutic Centre of Excellence will support more people who have been victims of rape and sexual violence across South and Mid Wales. They will continue to improve their wellbeing service reducing the demand on their counselling services. Each year the project will support at least 500 survivors of recent and historic rape and sexual abuse to recover and up to 1250 partners families and friends will benefit indirectly. Gan ddefnyddio �297814 dros dair blynedd bydd New Pathways Family Friendly Therapeutic Centre of Excellence yn cefnogi mwy o bobl sydd wedi dioddef trais rhywiol ar draws De a Chanolbarth Cymru. Byddant yn parhau i wella eu gwasanaeth lles gan leihau'r galw ar eu gwasanaethau cwnsela. Bob blwyddyn bydd y prosiect yn cefnogi o leiaf 500 o oroeswyr trais a cham-drin rhywiol diweddar a hanesyddol i wella a bydd hyd at 1250 o bartneriaid teuluoedd a ffrindiau yn elwa'n anuniongyrchol.", // 0045348046
+        summary:        "Using '297814 over three years New Pathways Family Friendly Therapeutic Centre of Excellence will support more people who have been victims of rape and sexual violence across South and Mid Wales. They will continue to improve their wellbeing service reducing the demand on their counselling services. Each year the project will support at least 500 survivors of recent and historic rape and sexual abuse to recover and up to 1250 partners families and friends will benefit indirectly. Gan ddefnyddio '297814 dros dair blynedd bydd New Pathways Family Friendly Therapeutic Centre of Excellence yn cefnogi mwy o bobl sydd wedi dioddef trais rhywiol ar draws De a Chanolbarth Cymru. Byddant yn parhau i wella eu gwasanaeth lles gan leihau'r galw ar eu gwasanaethau cwnsela. Bob blwyddyn bydd y prosiect yn cefnogi o leiaf 500 o oroeswyr trais a cham-drin rhywiol diweddar a hanesyddol i wella a bydd hyd at 1250 o bartneriaid teuluoedd a ffrindiau yn elwa'n anuniongyrchol.", // 0045348046
         location:       "Town, Merthyr Tydfil and Rhymney, Merthyr Tydfil",
         active:         false,
         programme:      "People and Places 3"
@@ -7077,7 +7077,7 @@ const projects = [    {
         // recipients:     "GB-CHC-801355
         recipients:     "St Giles Trust",
         date:           new Date('21 July, 2021'),
-        summary:        "Using �497585 over three years St Giles will continue their peer advisor programmes. They will work with 100 Community Champions to identify solutions to help improve their communities. The project will be delivered across Butetown Grangetown and Riverside in Cardiff as well as Newport and will help people to gain qualifications employment support and practical support. Gan ddefnyddio �497585 dros dair blynedd bydd St Giles yn parhau �'u rhaglenni cynghorwyr cyfoedion. Byddant yn gweithio gyda 100 o Hyrwyddwyr Cymunedol i nodi atebion i helpu i wella eu cymunedau. Bydd y prosiect yn cael ei gyflwyno ar draws Butetown Grangetown ac Riverside yng Nghaerdydd yn ogystal � Chasnewydd a bydd yn helpu pobl i ennill cymwysterau cymorth cyflogaeth a chymorth ymarferol.", // 0045358139
+        summary:        "Using '497585 over three years St Giles will continue their peer advisor programmes. They will work with 100 Community Champions to identify solutions to help improve their communities. The project will be delivered across Butetown Grangetown and Riverside in Cardiff as well as Newport and will help people to gain qualifications employment support and practical support. Gan ddefnyddio '497585 dros dair blynedd bydd St Giles yn parhau ''u rhaglenni cynghorwyr cyfoedion. Byddant yn gweithio gyda 100 o Hyrwyddwyr Cymunedol i nodi atebion i helpu i wella eu cymunedau. Bydd y prosiect yn cael ei gyflwyno ar draws Butetown Grangetown ac Riverside yng Nghaerdydd yn ogystal & Chasnewydd a bydd yn helpu pobl i ennill cymwysterau cymorth cyflogaeth a chymorth ymarferol.", // 0045358139
         location:       "Butetown, Cardiff South and Penarth, Cardiff",
         active:         false,
         programme:      "People and Places 3"
@@ -7097,7 +7097,7 @@ const projects = [    {
         recipients:     "The Wm Morrison Darlington Enterprise Trust",
         date:           new Date('20 July, 2021'),
         summary:        "The project will use the funding to provide personal development training and employment support for people who are newly unemployed including those unemployed as a result of Covid-19. This aims to improve people's future prospects employability and mental health and financial stability.", // 0045369297
-        location:       "Sadberge &amp; Middleton St George, Sedgefield, Darlington",
+        location:       "Sadberge & Middleton St George, Sedgefield, Darlington",
         active:         false,
         programme:      "RC North East and Cumbria Region"
      },
@@ -7116,7 +7116,7 @@ const projects = [    {
         recipients:     "Carlisle Eden Mind Limited",
         date:           new Date('20 July, 2021'),
         summary:        "The funding will help the project to support those with mental health problems and needs and are facing hardship as a direct result of the Covid-19 pandemic. The project will provide access to services financial support and housing/welfare services for its beneficiaries with the aim to improve mental wellbeing and resilience.", // 0045378630
-        location:       "Cathedral &amp; Castle, Carlisle, Carlisle",
+        location:       "Cathedral & Castle, Carlisle, Carlisle",
         active:         false,
         programme:      "RC North East and Cumbria Region"
      },
@@ -7275,7 +7275,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-social-prescribing-redcar-and-cleveland",
         grant_href:     "/funding/grants/0045379670",
-        project_name:   "Social Prescribing Redcar &amp; Cleveland",
+        project_name:   "Social Prescribing Redcar & Cleveland",
         amount:         163740, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11208593
@@ -7347,7 +7347,7 @@ const projects = [    {
         // recipients:     "GB-CHC-SC002214
         recipients:     "Gorbals Parish Church",
         date:           new Date('20 July, 2021'),
-        summary:        "This group will use the funding to employ staff for their community caf�.", // 0045390944
+        summary:        "This group will use the funding to employ staff for their community café.", // 0045390944
         location:       "Southside Central, Glasgow Central",
         active:         true,
         programme:      "National Lottery Awards for All Scotland"
@@ -7646,7 +7646,7 @@ const projects = [    {
         // recipients:     "GB-CHC-SC048255
         recipients:     "The Lade Centre",
         date:           new Date('19 July, 2021'),
-        summary:        "This group will use the funding to support their �Listening Service� which provides free professional counselling to those affected by poor mental health on the Isle of Bute. The group have seen a significant rise in demand due to COVID-19 and require additional support to cover therapist costs.", // 0045389502
+        summary:        "This group will use the funding to support their 'Listening Service' which provides free professional counselling to those affected by poor mental health on the Isle of Bute. The group have seen a significant rise in demand due to COVID-19 and require additional support to cover therapist costs.", // 0045389502
         location:       "Isle of Bute, Argyll and Bute, Argyll and Bute",
         active:         false,
         programme:      "National Lottery Awards for All Scotland"
@@ -7891,7 +7891,7 @@ const projects = [    {
         amount:         6500, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-SC689656
-        recipients:     "Mind You Health &amp; Wellbeing CIC",
+        recipients:     "Mind You Health & Wellbeing CIC",
         date:           new Date('18 July, 2021'),
         summary:        "This group will use the funding to deliver a programme of mental well-being activities to primary school children providing tips and ideas for improving mental health.", // 0045388744
         location:       "Corstorphine/Murrayfield, Edinburgh West, City of Edinburgh",
@@ -8045,7 +8045,7 @@ const projects = [    {
         // recipients:     "GB-CHC-SC042971
         recipients:     "Angus Young Engineers (AYE) Club",
         date:           new Date('18 July, 2021'),
-        summary:        "The club will equip an already repurposed horse box as a catering trailer in order to train young people to sell light refreshments to the public. The young people will be put through SVQ�s in order to give them better opportunities in future life.", // 0045394173
+        summary:        "The club will equip an already repurposed horse box as a catering trailer in order to train young people to sell light refreshments to the public. The young people will be put through SVQ's in order to give them better opportunities in future life.", // 0045394173
         location:       "Forfar and District, Angus, Angus",
         active:         false,
         programme:      "National Lottery Awards for All Scotland"
@@ -8267,7 +8267,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-hand-drumming-as-therapy-wellbeing-and-relaxation-sessions",
         grant_href:     "/funding/grants/0045390485",
-        project_name:   "Hand drumming as Therapy Wellbeing &amp; Relaxation sessions",
+        project_name:   "Hand drumming as Therapy Wellbeing & Relaxation sessions",
         amount:         9980, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1140518
@@ -8311,7 +8311,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1091887
         recipients:     "Ascension Community Trust",
         date:           new Date('15 July, 2021'),
-        summary:        "This project will support adults and children with with complex needs particularly those with learning difficulties and mental illness through a range of targeted projects and activities. It will employ a manager to coordinate work that includes a weekly gardening club a weekly craft course SEND children's holiday schemes befriending trips training and tailored caf� work placements in our community caf�.", // 0045391406
+        summary:        "This project will support adults and children with with complex needs particularly those with learning difficulties and mental illness through a range of targeted projects and activities. It will employ a manager to coordinate work that includes a weekly gardening club a weekly craft course SEND children's holiday schemes befriending trips training and tailored café work placements in our community café.", // 0045391406
         location:       "Custom House, West Ham, Newham",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -8596,7 +8596,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1152027
         recipients:     "St Mary&#39;s Secret Garden",
         date:           new Date('15 July, 2021'),
-        summary:        "The funding will be used to deliver intergenerational gardening and nature based therapy sessions for the community. The project aims to improve people�s mental wellbeing reduce the feeling of isolation and develop their skillsets.", // 0045391390
+        summary:        "The funding will be used to deliver intergenerational gardening and nature based therapy sessions for the community. The project aims to improve people's mental wellbeing reduce the feeling of isolation and develop their skillsets.", // 0045391390
         location:       "Haggerston, Hackney South and Shoreditch, Hackney",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -8673,7 +8673,7 @@ const projects = [    {
         recipients:     "Vision Enhancement Services",
         date:           new Date('15 July, 2021'),
         summary:        "The funding will be used to provide mental health support to people with sight loss. The project aims to improve the wellbeing of visually impaired people through counselling peer support groups and wellbeing activities.", // 0045389664
-        location:       "Chester City &amp; the Garden Quarter, City of Chester, Cheshire West and Chester",
+        location:       "Chester City & the Garden Quarter, City of Chester, Cheshire West and Chester",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -9041,7 +9041,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-the-undercroft:-our-communitys-recovery-space",
         grant_href:     "/funding/grants/0045391547",
-        project_name:   "The Undercroft: Our Community�s Recovery Space",
+        project_name:   "The Undercroft: Our Community's Recovery Space",
         amount:         10000, // £ to
         orgType:        "Public Sector",
         // recipients:     "GB-CHC-294399
@@ -9079,7 +9079,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-resilience-and-how-to-manage-good-mental-health-and-self-esteem",
         grant_href:     "/funding/grants/0045391725",
-        project_name:   "Resilience &amp; how to manage good mental health and self-esteem",
+        project_name:   "Resilience & how to manage good mental health and self-esteem",
         amount:         10000, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-11813671
@@ -9123,7 +9123,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1137235
         recipients:     "Caerwent Community Centre Committee Ltd",
         date:           new Date('14 July, 2021'),
-        summary:        "Caerwent Community Centre Committee Ltd will use �20000 to contribute to the cost of improving the hall's floor. The Hall for All project will improve community cohesion improve both physical and mental health of local people post COVID-19 as well as reduce the hall�s carbon footprint. Bydd Pwyllgor Canolfan Gymunedol Caerwent Cyf yn defnyddio �20000 i gyfrannu at y gost o wella llawr y neuadd. Bydd prosiect Neuadd i Bawb yn gwella cydlyniant cymunedol yn gwella iechyd corfforol a meddyliol pobl leol ar �l COVID-19 yn ogystal � lleihau �l troed carbon y neuadd.", // 0045385139
+        summary:        "Caerwent Community Centre Committee Ltd will use '20000 to contribute to the cost of improving the hall's floor. The Hall for All project will improve community cohesion improve both physical and mental health of local people post COVID-19 as well as reduce the hall's carbon footprint. Bydd Pwyllgor Canolfan Gymunedol Caerwent Cyf yn defnyddio '20000 i gyfrannu at y gost o wella llawr y neuadd. Bydd prosiect Neuadd i Bawb yn gwella cydlyniant cymunedol yn gwella iechyd corfforol a meddyliol pobl leol ar 'l COVID-19 yn ogystal & lleihau 'l troed carbon y neuadd.", // 0045385139
         location:       "Caerwent, Monmouth, Monmouthshire",
         active:         false,
         programme:      "People and Places 3"
@@ -9142,7 +9142,7 @@ const projects = [    {
         // recipients:     "GB-CHC-803793
         recipients:     "Rhondda Fach Women&#39;s Institute",
         date:           new Date('14 July, 2021'),
-        summary:        "Using �100000 over three years Rhondda Fach Women's Institute will be increasing skills within the community by sharing knowledge and skills of members of the WI with the wider community through a range of activities. It will help to reduce isolation and loneliness by building community relationships and opportunities for social interaction. Gan ddefnyddio �100000 dros dair blynedd bydd Sefydliad Merched Rhondda Fach yn cynyddu sgiliau yn y gymuned drwy rannu gwybodaeth a sgiliau aelodau o SM gyda'r gymuned ehangach drwy amrywiaeth o weithgareddau. Bydd yn helpu i leihau unigedd ac unigrwydd drwy feithrin cydberthnasau cymunedol a chyfleoedd ar gyfer rhyngweithio cymdeithasol.", // 0045383188
+        summary:        "Using '100000 over three years Rhondda Fach Women's Institute will be increasing skills within the community by sharing knowledge and skills of members of the WI with the wider community through a range of activities. It will help to reduce isolation and loneliness by building community relationships and opportunities for social interaction. Gan ddefnyddio '100000 dros dair blynedd bydd Sefydliad Merched Rhondda Fach yn cynyddu sgiliau yn y gymuned drwy rannu gwybodaeth a sgiliau aelodau o SM gyda'r gymuned ehangach drwy amrywiaeth o weithgareddau. Bydd yn helpu i leihau unigedd ac unigrwydd drwy feithrin cydberthnasau cymunedol a chyfleoedd ar gyfer rhyngweithio cymdeithasol.", // 0045383188
         location:       "Ferndale, Rhondda, Rhondda Cynon Taf",
         active:         false,
         programme:      "People and Places 3"
@@ -9161,7 +9161,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1056733
         recipients:     "Abermule Community Centre Association",
         date:           new Date('14 July, 2021'),
-        summary:        "Abermule Community Centre Association based near Newtown Powys will use �99600 to expand its community centre by erecting a multi-purpose community room to extend social activities and engagement within the community. Bydd Cymdeithas Canolfannau Cymunedol Aber-miwl sydd wedi'i lleoli ger y Drenewydd Powys yn defnyddio �99600 i ehangu ei chanolfan gymunedol drwy godi ystafell gymunedol amlbwrpas i ymestyn gweithgareddau cymdeithasol ac ymgysylltu o fewn y gymuned.", // 0045385819
+        summary:        "Abermule Community Centre Association based near Newtown Powys will use '99600 to expand its community centre by erecting a multi-purpose community room to extend social activities and engagement within the community. Bydd Cymdeithas Canolfannau Cymunedol Aber-miwl sydd wedi'i lleoli ger y Drenewydd Powys yn defnyddio '99600 i ehangu ei chanolfan gymunedol drwy godi ystafell gymunedol amlbwrpas i ymestyn gweithgareddau cymdeithasol ac ymgysylltu o fewn y gymuned.", // 0045385819
         location:       "Dolforwyn, Montgomeryshire, Powys",
         active:         false,
         programme:      "People and Places 3"
@@ -9256,7 +9256,7 @@ const projects = [    {
         // recipients:     "GB-CHC-SC048552
         recipients:     "The Fair Play foundation",
         date:           new Date('14 July, 2021'),
-        summary:        "This group will use the funding to deliver group activity sessions for people over 65�s years of age in care homes to improve fitness well-being and reduce isolation across Lanarkshire.", // 0045387920
+        summary:        "This group will use the funding to deliver group activity sessions for people over 65's years of age in care homes to improve fitness well-being and reduce isolation across Lanarkshire.", // 0045387920
         location:       "Bellshill, Coatbridge, Chryston and Bellshill",
         active:         true,
         programme:      "National Lottery Awards for All Scotland"
@@ -9332,7 +9332,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1165392
         recipients:     "The John Burns Foundation",
         date:           new Date('14 July, 2021'),
-        summary:        "Using �99990 over three years The John Burns Foundation will create a kitchen facility to be used by the local community which will provide a space where individuals can learn and develop their knowledge around healthy food preparation. Gan ddefnyddio �99990 dros dair blynedd bydd Sefydliad John Burns yn creu cyfleuster cegin i'w ddefnyddio gan y gymuned leol a fydd yn darparu man lle gall unigolion ddysgu a datblygu eu gwybodaeth am baratoi bwyd iach.", // 0045384082
+        summary:        "Using '99990 over three years The John Burns Foundation will create a kitchen facility to be used by the local community which will provide a space where individuals can learn and develop their knowledge around healthy food preparation. Gan ddefnyddio '99990 dros dair blynedd bydd Sefydliad John Burns yn creu cyfleuster cegin i'w ddefnyddio gan y gymuned leol a fydd yn darparu man lle gall unigolion ddysgu a datblygu eu gwybodaeth am baratoi bwyd iach.", // 0045384082
         location:       "Kidwelly, Llanelli, Carmarthenshire",
         active:         false,
         programme:      "People and Places 3"
@@ -9389,7 +9389,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1151455
         recipients:     "Penrose Options",
         date:           new Date('13 July, 2021'),
-        summary:        "The funding will support the organisation's �Roots to Recovery� (R2R) project which provides locally based activities that utilise a one-acre therapy garden and workshop space. Their project area is currently Luton with a catchment area of Luton and Bedfordshire. The activities will support vulnerable adults who are socially isolated or on the fringe of isolation by building their skills and resilience and breaking down community engagement barriers. The organisation will also  test a social enterprise approach to see if it could open-up a range of possibilities for R2R their members and service users. Additionally it will build twenty more raised beds in various neglected and unused Luton locations to increase community free fresh food production.", // 0045227824
+        summary:        "The funding will support the organisation's 'Roots to Recovery' (R2R) project which provides locally based activities that utilise a one-acre therapy garden and workshop space. Their project area is currently Luton with a catchment area of Luton and Bedfordshire. The activities will support vulnerable adults who are socially isolated or on the fringe of isolation by building their skills and resilience and breaking down community engagement barriers. The organisation will also  test a social enterprise approach to see if it could open-up a range of possibilities for R2R their members and service users. Additionally it will build twenty more raised beds in various neglected and unused Luton locations to increase community free fresh food production.", // 0045227824
         location:       "St Mary&#39;s, Islington South and Finsbury, Islington",
         active:         false,
         programme:      "RC London and South East Region"
@@ -9465,7 +9465,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1120556
         recipients:     "YOUNG PEOPLE MARCH LTD",
         date:           new Date('13 July, 2021'),
-        summary:        "The funding will be used to run free open access sessions for young people aged 10 to 25 years in the market town of March Fenland. The sessions are designed to offer young people opportunities to gain increase and develop skills knowledge self-awareness and confidence and enable them to make positive and healthy life choices.  The project is the only open access youth facility in the area and offers the young people (aged 10-25) opportunities and activities which wouldn�t otherwise be available to them.  Sessions will include:* Engagement sessions with the young people to identify their priorities (1 session/month)* Personal development and social skills sessions* One-to-one support and guidance for hard to reach young people* Support groups providing  awareness workshops in sexual health drug and alcohol and mental health issues working alongside existing partners to help support 150 vulnerable young people/year* Monthly youth council meetings incorporating the planning of 4 transition days with junior schools.", // 0045235836
+        summary:        "The funding will be used to run free open access sessions for young people aged 10 to 25 years in the market town of March Fenland. The sessions are designed to offer young people opportunities to gain increase and develop skills knowledge self-awareness and confidence and enable them to make positive and healthy life choices.  The project is the only open access youth facility in the area and offers the young people (aged 10-25) opportunities and activities which wouldn't otherwise be available to them.  Sessions will include:* Engagement sessions with the young people to identify their priorities (1 session/month)* Personal development and social skills sessions* One-to-one support and guidance for hard to reach young people* Support groups providing  awareness workshops in sexual health drug and alcohol and mental health issues working alongside existing partners to help support 150 vulnerable young people/year* Monthly youth council meetings incorporating the planning of 4 transition days with junior schools.", // 0045235836
         location:       "March West, North East Cambridgeshire, Fenland",
         active:         false,
         programme:      "RC London and South East Region"
@@ -9517,7 +9517,7 @@ const projects = [    {
         // recipients:     "GB-COH-SC637661
         recipients:     "6foot Lab CIC",
         date:           new Date('12 July, 2021'),
-        summary:        "The organisation will use the funding to raise awareness of bees and the environment and couple it with the importance of looking after your mental health. They will do this through a series of art picnics mural projects nature walks the installation of a �natural playground� and vertical log bee hives.", // 0045388010
+        summary:        "The organisation will use the funding to raise awareness of bees and the environment and couple it with the importance of looking after your mental health. They will do this through a series of art picnics mural projects nature walks the installation of a 'natural playground' and vertical log bee hives.", // 0045388010
         location:       "Inverclyde South West, Inverclyde, Inverclyde",
         active:         false,
         programme:      "National Lottery Awards for All Scotland"
@@ -9574,7 +9574,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1152486
         recipients:     "Ethnic Youth Support Team",
         date:           new Date('11 July, 2021'),
-        summary:        "Using �299112 over two years Ethnic Youth Support Team will continue and develop a multi-lingual telephone helpline in partnership with Citizens Advice Cymru. It will build on a successful pilot project with referrals being made to a wide range of specialist providers including domestic violence mental health hate crime and various community groups. This will give them the crucial reassurance that they will be heard and understood as they get to communicate in their first language. Gan ddefnyddio �299112 dros ddwy flynedd bydd y T�m Cymorth Ieuenctid Ethnig yn parhau ac yn datblygu llinell gymorth aml-ieithyddol mewn partneriaeth � Chyngor ar Bopeth Cymru. Bydd yn adeiladu ar brosiect peilot llwyddiannus gydag atgyfeiriadau'n cael eu gwneud i ystod eang o ddarparwyr arbenigol gan gynnwys trais domestig iechyd meddwl troseddau casineb a grwpiau cymunedol amrywiol. Bydd hyn yn rhoi'r sicrwydd hollbwysig iddynt y byddant yn cael eu clywed a'u deall wrth iddynt ddod i gyfathrebu yn eu hiaith gyntaf.", // 0045380576
+        summary:        "Using '299112 over two years Ethnic Youth Support Team will continue and develop a multi-lingual telephone helpline in partnership with Citizens Advice Cymru. It will build on a successful pilot project with referrals being made to a wide range of specialist providers including domestic violence mental health hate crime and various community groups. This will give them the crucial reassurance that they will be heard and understood as they get to communicate in their first language. Gan ddefnyddio '299112 dros ddwy flynedd bydd y T'm Cymorth Ieuenctid Ethnig yn parhau ac yn datblygu llinell gymorth aml-ieithyddol mewn partneriaeth & Chyngor ar Bopeth Cymru. Bydd yn adeiladu ar brosiect peilot llwyddiannus gydag atgyfeiriadau'n cael eu gwneud i ystod eang o ddarparwyr arbenigol gan gynnwys trais domestig iechyd meddwl troseddau casineb a grwpiau cymunedol amrywiol. Bydd hyn yn rhoi'r sicrwydd hollbwysig iddynt y byddant yn cael eu clywed a'u deall wrth iddynt ddod i gyfathrebu yn eu hiaith gyntaf.", // 0045380576
         location:       "Castle, Swansea West, Swansea",
         active:         false,
         programme:      "Supporting Great Ideas"
@@ -9606,7 +9606,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-building-confidence-connectedness-and-collaboration-through-creative-workshops",
         grant_href:     "/funding/grants/0045388395",
-        project_name:   "Building confidence connectedness &amp; collaboration through creative workshops",
+        project_name:   "Building confidence connectedness & collaboration through creative workshops",
         amount:         9990, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-12475039
@@ -9631,7 +9631,7 @@ const projects = [    {
         // recipients:     "GB-CHC-1175019
         recipients:     "Cambridge Acorn Project",
         date:           new Date('8 July, 2021'),
-        summary:        "The funding will be used to pay towards a salary for a Children�s Inequality Practitioner. The project which tackles inequalities in wellbeing following Adverse Childhood Experiences aims to offer additional support to families due to demand resulting from Covid-19.", // 0045390208
+        summary:        "The funding will be used to pay towards a salary for a Children's Inequality Practitioner. The project which tackles inequalities in wellbeing following Adverse Childhood Experiences aims to offer additional support to families due to demand resulting from Covid-19.", // 0045390208
         location:       "Cambridge, Cambridge",
         active:         false,
         programme:      "National Lottery Awards for All England"
@@ -9734,7 +9734,7 @@ const projects = [    {
     {
         id:             "qa-promo-card-link-coronovirus-recovery-support-for-disadvantaged-families-and-children",
         grant_href:     "/funding/grants/0045391342",
-        project_name:   "Coronovirus Recovery Support for Disadvantaged Families &amp; Children",
+        project_name:   "Coronovirus Recovery Support for Disadvantaged Families & Children",
         amount:         9995, // £ to
         orgType:        "School",
         // recipients:     "GB-CHC-1110053
@@ -9886,7 +9886,7 @@ const projects = [    {
         {
         id:             "qa-promo-card-link-whittinghams-village-playground",
         grant_href:     "/funding/grants/0045389718",
-        project_name:   "Whittingham�s village playground",
+        project_name:   "Whittingham's village playground",
         amount:         9245, // £ to
         orgType:        "Partnership",
         // recipients:     "360g-tnlcomfung-org-WhittinghamCofEPrimarySchool,
@@ -9969,7 +9969,7 @@ const projects = [    {
         recipients:     "Lymley Wood CIC",
         date:           new Date('8 July, 2021'),
         summary:        "The funding will be used to deliver a programme of Wilderness therapy for disadvantaged teenagers. Wilderness therapy combines experiential education group therapy and resilience building activities in a woodland setting. The young people will learn new skills make new friends gain insight into their own behaviour patterns and develop life skills and coping strategies that will support them as they move into adulthood.", // 0045389493
-        location:       "Mayfield &amp; Five Ashes, Wealden, Wealden",
+        location:       "Mayfield & Five Ashes, Wealden, Wealden",
         active:         false,
         programme:      "National Lottery Awards for All England"
      },
@@ -10056,7 +10056,7 @@ const projects = [    {
     {
         id:             "qa-promo-card-link-parent-engage-wellbeing-and-resilience-workshops-programme",
         grant_href:     "/funding/grants/0045389972",
-        project_name:   "Parent ENGage Wellbeing &amp; Resilience Workshops Programme",
+        project_name:   "Parent ENGage Wellbeing & Resilience Workshops Programme",
         amount:         8525, // £ to
         orgType:        "Company/Mutual Society",
         // recipients:     "GB-COH-12880304

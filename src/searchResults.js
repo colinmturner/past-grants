@@ -9,7 +9,6 @@ class SearchResults extends React.Component {
         //console.log(resProjs);
                 return (
             <div>
-                <h4>{resProjs.length} Results</h4>
                 {resProjs.map(proj => {
                 return <ProjectCard key={++i} proj={proj} />
                 })}

@@ -8,6 +8,9 @@ import SearchBox from './searchBox';
 import SearchFilterSet from './searchFilterSet';
 import SearchResults from './searchResults';
 import projects from './projects';
+import Container from 'react-bootstrap/esm/Container';
+import Row from 'react-bootstrap/esm/Row';
+import Col from 'react-bootstrap/Col';
 
 class App extends React.Component {
   constructor(props) {
@@ -334,15 +337,23 @@ class App extends React.Component {
       <div className="App">
         <HeaderText />
         <SearchBox appState={ this.state } />
-        <Accordion defaultActiveKey="">
-            <Accordion.Item eventKey="0">
-                <Accordion.Header>Search filters</Accordion.Header>
-                <Accordion.Body>
-                  <SearchFilterSet appState={ this.state } />
-                </Accordion.Body>
-            </Accordion.Item>
-        </Accordion>
-        <OrderBy appState={ this.state } />
+        <Container>
+          <Row>
+            <Col>
+              <Accordion defaultActiveKey="">
+                  <Accordion.Item eventKey="0">
+                      <Accordion.Header>Search filters</Accordion.Header>
+                      <Accordion.Body>
+                        <SearchFilterSet appState={ this.state } />
+                      </Accordion.Body>
+                  </Accordion.Item>
+              </Accordion>
+            </Col>
+            <Col>
+              <OrderBy appState={ this.state } />
+            </Col>
+          </Row>
+        </Container>
         <SearchResults state={ this.state } />
       </div>
     );

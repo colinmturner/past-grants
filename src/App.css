@@ -34,13 +34,36 @@ h5.gpbs {
   color: #E5006d;
 }
 
-.projectCard {
+.projectCard.container {
   border: #e9ecef 2px solid;
-  margin: .8em 0;
+  margin: .5em 0.2em;
+  width: auto;
 }
 .projectAttic {
   padding: 1em;
 }.projectAnnex {
   background-color: #e9ecef;
   padding: 1em;
+}
+.searchout.accordion-item  {
+  border: none;
+}
+.activemark {
+  vertical-align: bottom;
+}
+.searcher.accordion-body {
+  border: solid 1px rgba(0,0,0,0.125);
+  border-radius: 0.25rem;
+  margin: 0.2em;
+}
+.orderby {
+  position: absolute;
+  width: 100%;
+}
+.filterHead.col {
+  border: solid 2px rgb(240, 0, 132);
+  border-radius: 0.25rem;
+  margin: 0.2rem;
+  padding: 0;
+  position: relative;
 }

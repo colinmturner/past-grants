@@ -11,6 +11,27 @@ import projects from './projects';
 import Container from 'react-bootstrap/esm/Container';
 import Row from 'react-bootstrap/esm/Row';
 import Col from 'react-bootstrap/Col';
+//import AccordionButton from 'react-bootstrap/esm/AccordionButton';
+
+function defAmount() {
+  const amountArr = [];
+  projects.map(proj => {
+      amountArr.push(proj['amount']);
+    return amountArr;
+  })
+  const defAmount = [Math.min.apply(Math, amountArr), Math.max.apply(Math, amountArr)];
+  return defAmount    
+}
+function defTime() {
+  const timeArr = [];
+  projects.map(proj => {
+      timeArr.push(Date.parse(proj['date']));
+    return timeArr;
+  })
+  const defTime = [Math.min.apply(Math, timeArr), Math.max.apply(Math, timeArr)];
+  return defTime    
+}
+
 
 class App extends React.Component {
   constructor(props) {
@@ -33,8 +54,8 @@ class App extends React.Component {
     this.getOrder = this.getOrder.bind(this);
     this.getSearchBox = this.getSearchBox.bind(this);
     //this.checkAll = this.checkAll.bind(this);
-    const resetFilters = {isActive: false, isAmount: [0, 20000000], isTimeFrame: [Date.parse('28 June, 2021'), Date.parse('28 December, 2021')], isFundingProg: '[^]*', isOrgType: '[^]*', isLocation: '[^]*', isOrder: 'date', isSearchBox: '[^]*'}
-    this.state = { resProjects: projects,
+    const resetFilters = {isActive: false, isAmount: defAmount(), isTimeFrame: defTime(), isFundingProg: '[^]*', isOrgType: '[^]*', isLocation: '[^]*', isOrder: 'date', isSearchBox: '[^]*'}
+    this.state = { resProjects: projects, resetFilters: resetFilters,
                   checkActive: this.checkActive, checkAmount: this.checkAmount, checkTimeFrame: this.checkTimeFrame, 
                   checkFundingProg: this.checkFundingProg, checkOrgType: this.checkOrgType, checkLocation: this.checkLocation,
                   orderBy: this.orderBy, checkSearchBox: this.checkSearchBox,
@@ -87,7 +108,7 @@ class App extends React.Component {
     });
   }
   getAmount(fromTo, input) {
-    console.log(fromTo, input);
+    //console.log(fromTo, input);
     //const input = this.state.resProjects;
     const minim = fromTo[0];
     const maxim = fromTo[1];
@@ -113,7 +134,7 @@ class App extends React.Component {
     });
   }
   getTimeFrame(fromTo, input) {
-    console.log(fromTo, input);
+    //console.log(fromTo, input);
     //const input = projects;
     const minim = fromTo[0];
     const maxim = fromTo[1];
@@ -137,12 +158,12 @@ class App extends React.Component {
     });
   }
   getFundingProg(phrase, input) {
-    console.log(phrase, input);
+    //console.log(phrase, input);
     //const input = projects;
     const output = {};
     output.resProjects = [];
     // Algorithm that takes in value and compares "programme" of each project and filters "input" accordingly
-    console.log(new RegExp(phrase))
+    //console.log(new RegExp(phrase))
     input.map(proj => {
       if( new RegExp(phrase).test(proj['programme']) === true ) {
         output.resProjects.push(proj);
@@ -160,7 +181,7 @@ class App extends React.Component {
     });
   }
   getOrgType(phrase, input) {
-    console.log(phrase, input);
+    //console.log(phrase, input);
     const output = {};
     output.resProjects = [];
     // Algorithm that takes in value and compares "orgType" of each project and filters "input" accordingly
@@ -181,7 +202,7 @@ class App extends React.Component {
     });
   }
   getLocation(phrase, input) {
-    console.log(phrase, input);
+    //console.log(phrase, input);
     const output = {};
     output.resProjects = [];
     // Algorithm that takes in value and compares "location" of each project and filters "input" accordingly
@@ -196,13 +217,13 @@ class App extends React.Component {
     //return output 
   }
   orderBy(e) {
-    const phrase = new RegExp(e.target.attributes[1].value);
+    const phrase = e.target.attributes[1].value;
     this.setState({isOrder: phrase}, function callback()  {
       this.getActive(this.state.isActive);
     });
   }
   getOrder(attribute, input) {
-    console.log(attribute, input);
+    //console.log(attribute, input);
     const output = {};
     output.resProjects = input;
     switch(attribute)  {
@@ -299,7 +320,7 @@ class App extends React.Component {
     });
   }
   getSearchBox(phrase, input) {
-    console.log(phrase, input);
+    //console.log(phrase, input);
     const output = {};
     output.resProjects = [];
     // Algorithm that takes in value and compares "name" and other fields of each project and filters "input" accordingly
@@ -325,7 +346,7 @@ class App extends React.Component {
   }*/
   searchResults(input) {
     this.setState( input );
-    console.log(input)
+    //console.log(input)
   }
 
   componentDidMount() {
@@ -337,23 +358,23 @@ class App extends React.Component {
       <div className="App">
         <HeaderText />
         <SearchBox appState={ this.state } />
-        <Container>
-          <Row>
-            <Col>
-              <Accordion defaultActiveKey="">
-                  <Accordion.Item eventKey="0">
-                      <Accordion.Header>Search filters</Accordion.Header>
-                      <Accordion.Body>
-                        <SearchFilterSet appState={ this.state } />
-                      </Accordion.Body>
-                  </Accordion.Item>
-              </Accordion>
-            </Col>
-            <Col>
-              <OrderBy appState={ this.state } />
-            </Col>
-          </Row>
-        </Container>
+        <Accordion defaultActiveKey="">
+            <Accordion.Item eventKey="0" className="searchout">
+              <Container>
+                <Row>
+                  <Col className="filterHead">
+                    <Accordion.Header>Search filters</Accordion.Header>
+                  </Col>
+                  <Col className="filterHead">
+                    <OrderBy appState={ this.state } />
+                  </Col>
+                </Row>
+                <Accordion.Body className="searcher">
+                  <SearchFilterSet appState={ this.state } />
+                </Accordion.Body>
+              </Container>
+            </Accordion.Item>
+        </Accordion>
         <SearchResults state={ this.state } />
       </div>
     );

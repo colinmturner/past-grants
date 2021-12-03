@@ -23,18 +23,20 @@ class TimeFrameFilter extends React.Component {
         const checkTimeFrame = this.props.appState.checkTimeFrame;
         checkTimeFrame([this.state.timeFrom, this.state.timeTo]);
     }
+    componentDidMount() {
+        this.setState( {timeFrom: this.props.appState.isTimeFrame[0], timeTo: this.props.appState.isTimeFrame[1] } )
+        console.log(this.props.appState.isTimeFrame[0], this.state)
+    }
 
     render() {
         return (
-            <div>
-                <h4>Time frame</h4>
-                <>
-                <Form.Label>From: {(new Date(this.state.timeFrom).toString())}</Form.Label>
-                    <Form.Range onChange={this.checkTimeFrom} min={Date.parse('28 June, 2021')} max={this.state.timeTo} value={this.state.timeFrom} />
-                    <Form.Label>To: {(new Date(this.state.timeTo).toString())}</Form.Label>
-                    <Form.Range onChange={this.checkTimeTo} style={ { margin: '0 0 0 '+this.state.timeTo/2, width: ((this.state.timeTo - this.state.timeFrom)*100/(Date.parse('28 December, 2021') - Date.parse('28 June, 2021')))+'%'} } min={this.state.timeFrom} max={Date.parse('28 December, 2021')} value={this.state.timeTo} />
-                </>
-           </div>
+            <>
+                <h6><strong>Time frame</strong></h6>
+                <Form.Label>From: {(new Date(this.state.timeFrom).toDateString())}</Form.Label>
+                    <Form.Range onChange={this.checkTimeFrom} min={this.props.appState.resetFilters.isTimeFrame[0]} max={this.state.timeTo} value={this.state.timeFrom} />
+                    <Form.Label>To: {(new Date(this.state.timeTo).toDateString())}</Form.Label>
+                    <Form.Range onChange={this.checkTimeTo} style={ { margin: '0 0 0 '+this.state.timeTo/2, width: ((this.state.timeTo - this.state.timeFrom)*100/(this.state.timeTo - this.state.timeFrom))+'%'} } min={this.state.timeFrom} max={this.props.appState.resetFilters.isTimeFrame[1]} value={this.state.timeTo} />
+           </>
         )
     }
 }

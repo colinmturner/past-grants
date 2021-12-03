@@ -30,7 +30,7 @@ class ProjectCard extends React.Component {
                             <Col sm={4}><h5 className="gpbs">{ new Intl.NumberFormat('en-IN', { currency: 'GBP', style: 'currency', maximumFractionDigits: 0, minimumFractionDigits: 0 }).format(proj['amount']) }</h5></Col>
                         </Row>
                         <Row>
-                            <Col sm><strong className="pink">Active <span class="material-icons">turned_in</span> </strong>{proj['active']} {Date(proj['date'])}</Col>
+                            <Col sm><strong className="pink">Active <span className="material-icons activemark">turned_in</span> </strong>{proj['active']} {Date(proj['date'])}</Col>
                         </Row>
                         <Row>
                             <Col sm>

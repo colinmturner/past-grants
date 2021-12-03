@@ -7,8 +7,7 @@ class ActiveFilter extends React.Component {
     render() {
         const appState = this.props.appState;
         return (
-            <div>
-                <h4>
+                <h5>
                     <Form>
                         <Form.Check onChange={appState.checkActive}
                             type="switch"
@@ -17,8 +16,7 @@ class ActiveFilter extends React.Component {
                             checked={appState.isActive}
                         />
                     </Form>
-                </h4>
-           </div>
+                </h5>
         )
     }
 }

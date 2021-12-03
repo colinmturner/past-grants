@@ -23,7 +23,7 @@ class SearchBox extends React.Component {
     render() {
         const resProjs = this.props.appState.resProjects;
         return (
-            <div>
+            <>
                 <InputGroup className="mb-3">
                     <FormControl
                     placeholder="Search"
@@ -37,7 +37,7 @@ class SearchBox extends React.Component {
                 </InputGroup>
                 <p>(Example: Picnic, Garden, Youth)</p>
                 <h5 className="gpbs">{resProjs.length} results</h5>
-           </div>
+           </>
         )
     }
 }

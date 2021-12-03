@@ -1,4 +1,7 @@
 import React from 'react';
+import Col from 'react-bootstrap/esm/Col';
+import Container from 'react-bootstrap/esm/Container';
+import Row from 'react-bootstrap/esm/Row';
 //import Accordion from 'react-bootstrap/Accordion';
 import ActiveFilter from './searchFilters/activeFilter';
 import AmountFilter from './searchFilters/amountFilter';
@@ -12,16 +15,23 @@ class SearchFilterSet extends React.Component {
     render() {
         const appState = this.props.appState;
         return (
-            <div>
-                <h4>Search filters</h4>
-                <p>Dropdown or accordian container that reveals various tools for adjusting filter parameters.</p>
-                <ActiveFilter appState={appState} />
-                <AmountFilter appState={appState} />
-                <TimeFrameFilter appState={appState} />
-                <FundingProgFilter appState={appState} />
-                <OrgTypeFilter appState={appState} />
-                <LocationFilter appState={appState} />
-           </div>
+            <>
+                <p>Clear filter buttons and ... Clear all link.</p>
+                <Container>
+                    <Row>
+                        <Col sm={8}>
+                            <AmountFilter appState={appState} />
+                            <TimeFrameFilter appState={appState} />
+                        </Col>
+                        <Col sm={4}>
+                            <ActiveFilter appState={appState} />
+                            <FundingProgFilter appState={appState} />
+                            <OrgTypeFilter appState={appState} />
+                            <LocationFilter appState={appState} />
+                        </Col>
+                    </Row>
+                </Container>
+           </>
         )
     }
 }

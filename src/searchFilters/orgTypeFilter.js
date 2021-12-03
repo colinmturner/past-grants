@@ -6,14 +6,12 @@ class OrgTypeFilter extends React.Component {
     render() {
         const appState = this.props.appState;
         return (
-            <div>
-                <Form>
-                    <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                        <h4><Form.Label>Organisation type</Form.Label></h4>
-                        <Form.Control type="text" placeholder="Start typing ..." onChange={appState.checkOrgType} />
-                    </Form.Group>
-                </Form>
-           </div>
+            <Form>
+                <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
+                    <h6><strong><Form.Label>Organisation type</Form.Label></strong></h6>
+                    <Form.Control type="text" placeholder="Start typing ..." onChange={appState.checkOrgType} />
+                </Form.Group>
+            </Form>
         )
     }
 }

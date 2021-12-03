@@ -40,10 +40,10 @@ class LocationFilter extends React.Component {
         const locations = this.state.locations;
         let key = 0;
         return (
-            <div>
+            <>
                 <Form>
                     <Form.Group className="mb-3" controlId="exampleForm.ControlInput1">
-                        <h4><Form.Label>Find location</Form.Label></h4>
+                        <h6><strong><Form.Label>Find location</Form.Label></strong></h6>
                         <Form.Control type="text" placeholder="Start typing ..." onChange={this.locMenu} />
                     </Form.Group>
                 </Form>
@@ -57,7 +57,7 @@ class LocationFilter extends React.Component {
                         })}
                     </Dropdown.Menu>
                 </Dropdown>
-           </div> 
+           </> 
         )
     }
 }

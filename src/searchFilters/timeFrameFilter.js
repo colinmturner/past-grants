@@ -2,7 +2,7 @@ import React from 'react';
 import Form from 'react-bootstrap/Form'
 // It's important to write Documentation!!!
 
-class TimeFrameFilter extends React.Component {
+class TimeFrameFilter extends React.Component { 
     constructor(props) {
         super(props);
     

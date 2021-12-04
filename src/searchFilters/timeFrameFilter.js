@@ -33,9 +33,12 @@ class TimeFrameFilter extends React.Component {
             <>
                 <h6><strong>Time frame</strong></h6>
                 <Form.Label>From: {(new Date(this.state.timeFrom).toDateString())}</Form.Label>
-                    <Form.Range onChange={this.checkTimeFrom} min={this.props.appState.resetFilters.isTimeFrame[0]} max={this.state.timeTo} value={this.state.timeFrom} />
+                    <Form.Range onChange={this.checkTimeFrom} 
+                    min={this.props.appState.resetFilters.isTimeFrame[0]} max={this.state.timeTo} value={this.state.timeFrom} />
                     <Form.Label>To: {(new Date(this.state.timeTo).toDateString())}</Form.Label>
-                    <Form.Range onChange={this.checkTimeTo} style={ { margin: '0 0 0 '+this.state.timeTo/2, width: ((this.state.timeTo - this.state.timeFrom)*100/(this.state.timeTo - this.state.timeFrom))+'%'} } min={this.state.timeFrom} max={this.props.appState.resetFilters.isTimeFrame[1]} value={this.state.timeTo} />
+                    <Form.Range onChange={this.checkTimeTo} 
+                    style={ { margin: '0 0 0 '+this.state.timeTo/2, width: ((this.state.timeTo - this.state.timeFrom)*100/(this.state.timeTo - this.state.timeFrom))+'%'} } 
+                    min={this.state.timeFrom} max={this.props.appState.resetFilters.isTimeFrame[1]} value={this.state.timeTo} />
            </>
         )
     }

@@ -44,14 +44,12 @@ class AmountFilter extends React.Component {
             <>
                 <h6><strong>Amount</strong></h6>
                 <Form.Label>From: {this.state.amountFrom}</Form.Label>
-                <Form.Label
-                //style={{ position:absolute, right: 0 }}
-                >To: {this.state.amountTo}</Form.Label>
+                <Form.Label style={{ position: 'absolute', right: 0 }}>To: {this.state.amountTo}</Form.Label>
                 <Form.Range onChange={this.checkAmountFrom} 
-                //style={ { width: fromWidth*100+'%'} } 
+                style={ { width: fromWidth*100+'%'} } 
                 min={this.props.appState.resetFilters.isAmount[0]} max={this.state.amountTo} value={this.state.amountFrom} />
                 <Form.Range onChange={this.checkAmountTo} 
-                //style={ { width: toWidth*100+'%'} } 
+                style={ { width: toWidth*100+'%'} } 
                 min={this.state.amountFrom} max={this.props.appState.resetFilters.isAmount[1]} value={this.state.amountTo} />
             </>
         )

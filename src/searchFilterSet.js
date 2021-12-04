@@ -19,7 +19,7 @@ class SearchFilterSet extends React.Component {
                 <p>Clear filter buttons and ... Clear all link.</p>
                 <Container>
                     <Row>
-                        <Col sm={8} style="position: relative">
+                        <Col sm={8} style={{position: 'relative'}}>
                             <AmountFilter appState={appState} />
                             <TimeFrameFilter appState={appState} />
                         </Col>

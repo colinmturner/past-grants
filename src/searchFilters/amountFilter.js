@@ -30,7 +30,7 @@ class AmountFilter extends React.Component {
     }
 
     render() {
-        const a = this.state.amountFrom - this.props.appState.isAmount[0];
+/*        const a = this.state.amountFrom - this.props.appState.isAmount[0];
         const d = this.props.appState.isAmount[1] - this.state.amountTo;
         let fromWidth = 0.5;
         let toWidth = 0.5;
@@ -39,18 +39,20 @@ class AmountFilter extends React.Component {
             toWidth = 0.5 - a/(a + d) + d/(a + d);
             console.log(this.props.appState.isAmount[0]+': '+a+': '+a/(a + d));
             console.log(this.props.appState.isAmount[1]+': '+d+': '+d/(a + d));
-        }
+        } */
         return (
             <>
                 <h6><strong>Amount</strong></h6>
-                <Form.Label>From: {this.state.amountFrom}</Form.Label>
-                <Form.Label style={{ position: 'absolute', right: 0 }}>To: {this.state.amountTo}</Form.Label>
-                <Form.Range onChange={this.checkAmountFrom} 
-                style={ { width: fromWidth*100+'%'} } 
-                min={this.props.appState.resetFilters.isAmount[0]} max={this.state.amountTo} value={this.state.amountFrom} />
-                <Form.Range onChange={this.checkAmountTo} 
-                style={ { width: toWidth*100+'%'} } 
-                min={this.state.amountFrom} max={this.props.appState.resetFilters.isAmount[1]} value={this.state.amountTo} />
+                <Form.Label>From: { new Intl.NumberFormat('en-EN', { currency: 'GBP', style: 'currency', maximumFractionDigits: 0, minimumFractionDigits: 0 }).format(this.state.amountFrom) }</Form.Label>
+                <Form.Label style={{ position: 'absolute', right: 0 }}>To: { new Intl.NumberFormat('en-EN', { currency: 'GBP', style: 'currency', maximumFractionDigits: 0, minimumFractionDigits: 0 }).format(this.state.amountTo) }</Form.Label>
+                <div style={{position: 'relative'}}>
+                    <Form.Range onChange={this.checkAmountFrom} 
+                    style={ { width: 50+'%'} } 
+                    min={this.props.appState.resetFilters.isAmount[0]} max={this.state.amountTo} value={this.state.amountFrom} />
+                    <Form.Range onChange={this.checkAmountTo} 
+                    style={ { width: 50+'%'} } 
+                    min={this.state.amountFrom} max={this.props.appState.resetFilters.isAmount[1]} value={this.state.amountTo} />
+                </div>
             </>
         )
     }

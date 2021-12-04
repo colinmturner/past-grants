@@ -59,6 +59,7 @@ h5.gpbs {
 .orderby {
   position: absolute;
   width: 100%;
+  z-index: 1;
 }
 .filterHead.col {
   border: solid 2px rgb(240, 0, 132);

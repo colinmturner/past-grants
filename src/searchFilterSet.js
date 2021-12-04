@@ -1,3 +1,6 @@
+//import Button from '@restart/ui/esm/Button';
+import Button from 'react-bootstrap/Button';
+import CloseButton from 'react-bootstrap/CloseButton';
 import React from 'react';
 import Col from 'react-bootstrap/esm/Col';
 import Container from 'react-bootstrap/esm/Container';
@@ -16,7 +19,9 @@ class SearchFilterSet extends React.Component {
         const appState = this.props.appState;
         return (
             <>
-                <p>Clear filter buttons and ... Clear all link.</p>
+                {/* <p>Clear filter buttons and ... Clear all link.</p>
+                <Button variant="secondary" style={{position: 'relative', 'padding-right': 2+'em'}} disabled>First<CloseButton variant="white" style={{position: 'absolute', right: 0.25+'em'}} /></Button>
+                */}
                 <Container>
                     <Row>
                         <Col sm={8} style={{position: 'relative'}}>
